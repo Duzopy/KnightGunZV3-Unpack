@@ -1,0 +1,41 @@
+Starting BSP Export...
+object DrawCall_08 : DrawCall_08: 854 ver / 582 face 
+object DrawCall_12 : DrawCall_12: 27 ver / 16 face 
+object DrawCall_13 : DrawCall_13: 78 ver / 52 face 
+object pass_Object20 : pass_Object20: 48 ver / 30 face 
+object sky01 : sky01: 25 ver / 24 face 
+object Object12 : Object12: 128 ver / 121 face 
+object Object13 : Object13: 56 ver / 49 face 
+object pass_Object21 : pass_Object21: 48 ver / 30 face 
+object pass_Object22 : pass_Object22: 32 ver / 20 face 
+RSBsp Info : 1106 faces
+Scene Dimension ( 10909.9 10909.9 6993.8 )
+Export Objects.
+Export Objects : maps_WU.elu 
+Export description.. 
+Saving Source Data.
+CSG union - 6 objects
+construct object subtree DrawCall_08 ( 622 source polygon ) : total 2565 faces splitted 1288 leaf nodes 3594 nodes 5743 polygons
+construct object subtree DrawCall_12 ( 16 source polygon ) : total 0 faces splitted 3 leaf nodes 9 nodes 32 polygons
+construct object subtree DrawCall_13 ( 58 source polygon ) : total 97 faces splitted 35 leaf nodes 182 nodes 262 polygons
+construct object subtree sky01 ( 24 source polygon ) : total 0 faces splitted 1 leaf nodes 25 nodes 40 polygons
+construct object subtree Object12 ( 204 source polygon ) : total 343 faces splitted 265 leaf nodes 664 nodes 836 polygons
+construct object subtree Object13 ( 102 source polygon ) : total 128 faces splitted 99 leaf nodes 245 nodes 322 polygons
+0 faces eliminated. (solid)
+2029 source polygons remain
+optimized 1362 polygons remain
+Generating Convex polygons...
+Optimize Polygon 1106 -> 964 
+Constructing Collision BspTree. ( 1362 source polygons )
+Collision Bsp Info : total 16521 faces splitted 1736 leaf nodes 21209 nodes 26541 polygons
+Constructing OcTree. ( 964 source polygons )
+Octree Info : total 147 faces splitted 13 leaf nodes 25 nodes 1111 polygons
+Constructing BspTree. ( 964 source polygons )
+RSBsp Info : total 2975 faces splitted 1380 leaf nodes 2759 nodes 3939 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\maps\maps.RS file saved
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\maps\maps.RS.bsp file saved
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\maps\maps.RS.col file saved
+Exporting takes 0 minutes and     22 seconds.
+Done.

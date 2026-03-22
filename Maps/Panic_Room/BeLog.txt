@@ -1,0 +1,31 @@
+Starting BSP Export...
+object Box01 : Box01: 318 ver / 282 face 
+object pass_Object01 : pass_Object01: 8 ver / 2 face 
+object pass_Object02 : pass_Object02: 8 ver / 2 face 
+object Box02 : Box02: 314 ver / 254 face 
+RSBsp Info : 600 faces
+Scene Dimension ( 3762.2 5627.8 1596.0 )
+Export Objects.
+Export description.. 
+Saving Source Data.
+CSG union - 2 objects
+construct object subtree Box01 ( 282 source polygon ) : total 12 faces splitted 22 leaf nodes 87 nodes 646 polygons
+construct object subtree Box02 ( 314 source polygon ) : total 263 faces splitted 121 leaf nodes 399 nodes 1044 polygons
+0 faces eliminated. (solid)
+545 source polygons remain
+optimized 341 polygons remain
+Generating Convex polygons...
+Optimize Polygon 600 -> 449 
+Constructing Collision BspTree. ( 341 source polygons )
+Collision Bsp Info : total 1308 faces splitted 120 leaf nodes 1722 nodes 2918 polygons
+Constructing OcTree. ( 449 source polygons )
+Octree Info : total 82 faces splitted 4 leaf nodes 7 nodes 531 polygons
+Constructing BspTree. ( 449 source polygons )
+RSBsp Info : total 572 faces splitted 220 leaf nodes 439 nodes 1021 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+E:\Gunz\TestServ\decompiler\portal\portal.RS file saved
+E:\Gunz\TestServ\decompiler\portal\portal.RS.bsp file saved
+E:\Gunz\TestServ\decompiler\portal\portal.RS.col file saved
+Exporting takes 0 minutes and      4 seconds.
+Done.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML >
+	<AddXml name="goblin" 	filename="Model/npc/goblin/goblin.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinG" 	filename="Model/npc/goblin/goblinG.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinW" filename="Model/npc/goblin/goblinW.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinH" 	filename="Model/npc/goblin/goblinH.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinC" 	filename="Model/npc/goblin/goblinc.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinK" 	filename="Model/npc/goblin/goblinK.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinE" 	filename="Model/npc/goblin/goblinE.xml" autoload = "false">  </AddXml>
+	<AddXml name="goblinKB" 	filename="Model/npc/goblin/goblinKB.xml" autoload = "false">  </AddXml>
+
+	<AddXml name="palmpoa" 	  filename="Model/npc/palmpoa/palmpoa.xml" autoload = "false">  </AddXml>
+	<AddXml name="palmpoaH" 	filename="Model/npc/palmpoa/palmpoaH.xml" autoload = "false">  </AddXml>
+	<AddXml name="palmpou" 	  filename="Model/npc/palmpoa/palmpou.xml" autoload = "false">  </AddXml>
+	<AddXml name="cpalmpoa" 	filename="Model/npc/palmpoa/cpalmpoa.xml" autoload = "false">  </AddXml>
+	<AddXml name="palmpou_baby" 	filename="Model/npc/palmpoa/palmpou_baby.xml" autoload = "false">  </AddXml>
+
+	<AddXml name="skeleton" 	filename="Model/npc/skeleton/skeleton.xml" autoload = "false">  </AddXml>
+	<AddXml name="skeletonM" 	filename="Model/npc/skeleton/skeletonM.xml" autoload = "false">  </AddXml>
+	<AddXml name="skeletonC" 	filename="Model/npc/skeleton/skeletonC.xml" autoload = "false">  </AddXml>
+	<AddXml name="skeletonB" 	filename="Model/npc/skeleton/skeletonB.xml" autoload = "false">  </AddXml>
+	<AddXml name="theUnholy" 	filename="Model/npc/skeleton/theUnholy.xml" autoload = "false">  </AddXml>
+	<AddXml name="Lich" 	        filename="Model/npc/skeleton/Lich.xml" autoload = "false">  </AddXml>
+	
+	<AddXml name="kobolt" 	filename="Model/npc/kobolt/kobolt.xml" autoload = "false">  </AddXml>
+	<AddXml name="kobold_shaman" 	filename="Model/npc/kobolt/kobold_shaman.xml" autoload = "false">  </AddXml>	
+	<AddXml name="koboltC" 	filename="Model/npc/kobolt/koboltC.xml" autoload = "false">  </AddXml>
+	<AddXml name="koboltK" 	filename="Model/npc/kobolt/koboltK.xml" autoload = "false">  </AddXml>
+
+	<AddXml name="golem" 	filename="Model/npc/golem/golem.xml" autoload = "false">  </AddXml>
+	
+	<AddXml name="Scrider" 	filename="Model/npc/Scrider/Scrider.xml" autoload = "false">  </AddXml>
+	
+</XML>

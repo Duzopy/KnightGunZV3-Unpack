@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+<!-- Error Massage -->
+<STR id="100">O comunicador não tem uma UID. Esse comunicador deve ser inicializado pelo Master-Controller.</STR>
+<STR id="101">O comunicador não possui espaço UID para determinar sua UID.</STR>
+<STR id="110">O comunicador está tentando conectar-se a uma conexão direta inválida.</STR>
+<STR id="200">O comando possui um receptor UID inválido. Se você não se conectou a nenhum servidor e definiu o receptor-padrão, primeiro você deve fazer isso.</STR>
+<STR id="300">O Zone-Server não está conectado ao Master-Controller.</STR>
+<STR id="301">O Zone-Server está tentando invalidar o Master-Controller.</STR>
+<STR id="1000">UID do objeto inválido</STR>
+<!--
+<STR id="1001"></STR>
+-->
+
+<STR id="2000">Map file open error.</STR>
+
+<!-- Connection, Login -->
+<STR id="10000">Usuário ou Senha incorreto.</STR>
+<STR id="10001">Esta conta está em uso.</STR>
+<STR id="10002">A versão não corresponde à do servidor. Faça o update.</STR>
+<STR id="10003">Você não pode entrar, pois existem muitos usuários conectados.</STR>
+<STR id="10004">Conta bloqueada. Veja sua infração na Lista de Punidos no fórum.</STR>
+<STR id="10005">Falha na Autenticação.</STR>
+<STR id="10006">Você foi desconectado.</STR>
+<STR id="10007">Falha na conexão. Por favor, tente novamente mais tarde.</STR>
+<STR id="10008">Falha ao recuperar as informações da conta. Por favor, tente novamente mais tarde.</STR>
+<STR id="10009">Falha no client. Por favor,reinstale o seu jogo ou baixe a nova versão do Knight GunZ.</STR>
+<STR id="10010">Por favor, aguarde enquanto o jogo tenta conectar-se.</STR>
+<STR id="10011">Seu endereço IP é de uma área que não é permitida.</STR>
+<STR id="10012">Your log-in information is outdated or unavailable.  Please restart the Ijji Reactor.</STR>
+<STR id="10014">Seu HardwareID esta permanentemente banido.</STR>
+<STR id="10015">O seu IP foi Banido.</STR>
+<STR id="10016">Seu cliente está desatualizado. Atualize-o e tente novamente!</STR>
+<STR id="10017">Uso suspeitos foram detectados nesta conta, é importante que você altere sua senha antes de fazer login. Você pode altera-la através do site: Www.gunz.knightgamesonline.com</STR>
+<STR id="10018">Você não tem autorização para entrar nesta conta.</STR>
+
+<!-- Character Admin -->
+<STR id="10100">Este nome já está em uso. Por favor escolha outro.</STR>
+<STR id="10101">Você usou caracteres que não são permitidos.</STR>
+<STR id="10102">O nome é muito curto.</STR>
+<STR id="10103">O nome é muito longo.</STR>
+<STR id="10104">Digite o nome do personagem.</STR>
+<STR id="10110">É necessario dar um nome ao personagem.</STR>
+<STR id="10111">Impossível excluir o personagem se ele pertence a um Clã ou possui itens de CASH.</STR>
+<STR id="10014">Este PC está proibido. Se você acha que é um error, reporte no nosso fórum - forum.knightgamesonline.com</STR>
+
+<!-- Item -->
+<STR id="20001">Bounty insuficiente!</STR>
+<STR id="20002">Você não tem permissão para comprar esse item.</STR>
+<STR id="20003">Você não tem permissão para equipar esse item.</STR>
+<STR id="20004">Você não tem permissão para retirar esse item.</STR>
+<STR id="20005">Você não tem permissão para vender esse item.</STR>
+<STR id="20006">Você não tem permissão para vender item equipado.</STR>
+<STR id="20007">Este item não está disponível.</STR>
+<STR id="20008">Você possui muitos itens.</STR>
+<STR id="20009">O item selecionado não existe.</STR>
+<STR id="20010">Isto excede o peso permitido.</STR>
+<STR id="20011">Não é permitido usar isto em seu nível.</STR>
+<STR id="20012">Não é possível colocar o mesmo item neste espaço.</STR>
+<STR id="20013">Não é possível retirar porque há excesso de peso.</STR>
+<STR id="20014">Não é possível vender o item em uma loja.</STR>
+<STR id="20015">Não é possível pegar o item, pois ele não corresponde ao seu sexo.</STR>
+<STR id="20016">Este item não pode ser equipado, pois ele não é adequado ao seu nível. Você ainda deseja pegar o item?</STR>
+<STR id="20017">Não é possível depositar o item no Banco.</STR>
+<STR id="20018">Você pode depositar apenas itens de CASH no Banco.</STR>
+<STR id="20019">O item foi retirado por causa da queda de nível.</STR>
+<STR id="20020">Não é possível equipar esse item.</STR>
+<STR id="20021"></STR>
+<STR id="20024">Você não possui Cash suficiente para comprar este item.</STR>
+<STR id="20025">Você não possui Event Coins suficientes para comprar este item.</STR>
+<STR id="20026">Você pode ter apenas 30.000 do mesmo item. Por favor, tente novamente mais tarde. </STR>
+
+<!-- Cash Item Billing -->
+<STR id="20027">캐쉬가 부족합니다.</STR>
+<STR id="20028">구매자가 과금 서버에 존재하지 않습니다.</STR>
+<STR id="20029">입력하신 캐릭터명은 건즈 내에 존재하지 않는 캐릭터명입니다.</STR>
+<STR id="20030">과금 정보가 잘못 되었습니다.</STR>
+<STR id="20031">과금 시스템에 문제가 있습니다.</STR>
+<STR id="20032">이미 취소된 결제입니다.</STR>
+
+<!-- Stage -->
+<STR id="30000">Não é possível entrar na sala.</STR>
+<STR id="30001">Limite de jogadores atingido.</STR>
+<STR id="30002">Senha incorreta!</STR>
+<STR id="30003">Seu nível é insuficiente para entrar aqui.</STR>
+<STR id="30004">Não é permitida invasão.</STR>
+<STR id="30005">Sua entrada está proibida.</STR>
+<STR id="30006">A fase não existe.</STR>
+<STR id="30007">A fase já está presente.</STR>
+<STR id="30008">Você não pode criar a sala.</STR>
+<STR id="30009">Não há espaço disponível para você entrar.</STR>
+<STR id="30010">Você não tem autorização para criar salas neste canal.</STR>
+
+<!-- Channel -->
+<STR id="30020">Não é possível entrar no canal.</STR>
+<STR id="30021">Limite de jogadores atingido.</STR>
+<STR id="30022">Você não pode entrar aqui no seu nível atual.</STR>
+<STR id="30023">Contas com personagens acima do nível 30 não podem acessar o canal de iniciantes.</STR>
+
+<!-- Primium Ticket -->
+
+<STR id="30026">Não há ninguém que possa se igualar a você.</STR>
+
+<!-- Clan -->
+<STR id="30030">Não é possível formar um Clã.</STR>
+<STR id="30031">O Clã não pode ser fechado.</STR>
+<STR id="30032">Este Clã já existe.</STR>
+<STR id="30033">O número de membros não é suficiente para a criação do Clã.</STR>
+<STR id="30034">Este membro já pertence a outro Clã.</STR>
+<STR id="30035">São necessarios mais jogadores no lobby para criar o clã.</STR>
+<STR id="30036">O nome do Clã está incorreto.</STR>
+<STR id="30037">Este não é um Líder de Clã.</STR>
+<STR id="30038">Não é Líder do Clã ou Administrador.</STR>
+<STR id="30039">Este jogador já pertence a outro Clã.</STR>
+<STR id="30040">Assinatura não processada.</STR>
+<STR id="30041">Este usuário é membro de outro Clã.</STR>
+<STR id="30042">O usuário não está no Lobby.</STR>
+<STR id="30043">Você não se juntou ao Clã.</STR>
+<STR id="30044">Você não pode se retirar do Clã.</STR>
+<STR id="30045">Não é possível adicionar mais um membro ao Clã.</STR>
+<STR id="30046">Seu amigo não está conectado.</STR>
+<STR id="30047">Não no mesmo Clã.</STR>
+<STR id="30048">Você não pode mudar a autoridade.</STR>
+<STR id="30049">O membro do Clã relacionado não está disponível.</STR>
+<STR id="30050">Recompensa insuficiente. São necessarios 1.000 Bounty para criação do Clã.</STR>
+<STR id="30051">Apenas aqueles de nível 10 ou acima podem criar um Clã.</STR>
+<STR id="30052">O Clã foi fechado. Relogue!</STR>
+<STR id="30053">Nenhum membro foi nomeado Mestre do clã.</STR>
+
+<!-- Ladder -->
+<STR id="30070">Você não pode se candidatar a uma guerra de Clãs.</STR>
+<STR id="30071">Membros de equipes diferentes.</STR>
+<STR id="30072">O membro da equipe não está disponível.</STR>
+<STR id="30073">Existe um usuário que não pode se candidatar para um jogo de equipe.</STR>
+<STR id="30074">A Guerra do clã está fechado. Tempo de serviço AM 9:00.</STR>
+
+<!-- Clan Battle -->
+<STR id="30080">Não no mesmo Clã.</STR>
+<STR id="30081">Sem jogadores.</STR>
+<STR id="30082">Existe um membro que não pode se candidatar para uma guerra de Clãs.</STR>
+
+<!-- Client -->
+<STR id="30103">Ainda não suportado.</STR>
+<STR id="30104">Por favor, não use um linguajar vulgar ou ofensivo.</STR>
+<STR id="30105">Você não pode escrever o mesmo conteúdo três vezes ou mais.</STR>
+<STR id="30106">Proibido de participar do chat por 1 minuto.</STR>
+
+<!-- Server Message -->
+<STR id="90000">Não é possível acessar o servidor.</STR>
+<STR id="90002">Desconectado do servidor.</STR>
+
+<!-- Clan Message -->
+<STR id="100000">Você se juntou ao Clã.</STR>
+<STR id="100001">O Clã foi criado.</STR>
+
+<!-- Follow -->
+<STR id="110000">Você não pode entrar.</STR>
+
+<!-- Vote -->
+<STR id="120000">Não é possível se candidatar para votar.</STR>
+
+<!-- Disconnect message -->
+<STR id="130001">KG GUARD - Um programa ilegal foi detectado, seu jogo irá fechar em instantes.</STR>
+<STR id="130002">Esta conta foi bloqueada após uma tentativa de hack.</STR>
+<STR id="130003">Conexão negada devido a má conduta. Conexão com o servidor será cortada em breve.</STR>
+<STR id="130004">Um arquivo inválido foi detectado.</STR>
+<STR id="130005">Irregularidade encontrada: sua conta está suspensa por uma hora.</STR>
+<STR id="130006">Conta bloqueada por 1 hora.</STR>
+<STR id="130007">Seus personagens foram removidos devido à inatividade.</STR>
+
+<!-- DuelTournament message -->
+<STR id="140000">Este não é o canal de Duel Tournament.</STR>
+<STR id="140001">Você já pediu para entrar no Duel Tournament.</STR>
+<STR id="140002">O aplicativo falhou. Por favor, tente novamente mais tarde. Se o problema persistir, entre em contato com a nossa equipe.</STR>
+<STR id="140003">O limite de tempo de aplicação foi excedido.</STR>
+<STR id="140004">Não é possível criar o palco.</STR>
+<STR id="140005">Não encontrou o palco.</STR>
+<STR id="140006">Há um erro na configuração da fase.</STR>
+<STR id="140007">Não é possível iniciar o estágio.</STR>
+<STR id="140008">A comunicação com DB é instável.</STR>
+<STR id="140009">O Duel Tournament está fechado. O programa estará aberto durante %d:00 to %d:59.</STR>
+
+<!-- Administartor message -->
+<STR id="150000">O personagem não pode ser encontrado.</STR>
+<STR id="150001">Não há nenhuma resposta da DB. Por favor, tente novamente.</STR>
+
+<!-- Server -->
+<STR id="200000">Impossível iniciar a votação</STR>	
+<STR id="200001">Você não pode continuar com a votação para o jogo de classificação.</STR>	
+<STR id="200002">Votação já iniciada.</STR>	
+<STR id="200003">Falha na votação.</STR>	
+<STR id="200004">10 segundos restantes.</STR>	
+<STR id="200005">30 segundos restantes.</STR>	
+<STR id="200006">60 segundos restantes.</STR>	
+<STR id="200007">Existe muita gente.</STR>	
+<STR id="200008">%s não está pronto.</STR>
+
+<!-- Login Server Peru FHL에서만 사용 -->
+<STR id="201001">아이디가 존재하지 않습니다.</STR>
+<STR id="201002">중복 로그인 유저입니다.</STR>
+<STR id="201003">서버 점검중입니다.</STR>
+<STR id="201004">Login Error Result 4</STR>
+<STR id="201005">계정정지 유저의 아이디입니다.</STR>
+<STR id="201006">서비스되는 게임이 아닙니다.</STR>
+<STR id="201007">데이타베이스 오류입니다.</STR>
+
+<!-- Challenge Quest -->
+<STR id="210000"> '%s' é menor do que o nível requerido. </STR>
+<STR id="210001">Você não pode iniciar o challenge, porque pelo menos um jogador é inferior ao nível exigido.</STR>
+
+<STR id="300001">Você deve iniciar uma guerra de clãs em seu próprio canal.</STR>
+
+</XML>

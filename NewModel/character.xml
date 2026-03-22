@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML >
+
+	<AddXml name="heroman1" 	filename="model/man/man01.xml"> 			</AddXml>
+	<AddXml name="herowoman1" 	filename="model/woman/woman01.xml"> 			</AddXml>
+	<AddXml name="goblin01" 	filename="NewModel/goblin/goblin01.xml"> 		</AddXml>
+	<AddXml name="zombie01" 	filename="NewModel/zombie/zombie01.xml"> 		</AddXml>
+	<AddXml name="zombietank01" 	filename="NewModel/zombieTank/zombietank01.xml"> 	</AddXml>
+	<AddXml name="nemesis01" 	filename="NewModel/nemesis/nemesis01.xml"> 		</AddXml>
+	<AddXml name="gula01" 		filename="NewModel/gula/gula01.xml"> 			</AddXml>
+	<AddElu name="heroman_low1"	filename="model/lo/man_lo01.elu"> 			</AddElu>
+	<AddElu name="heroman_low2"	filename="model/lo/man_lo02.elu"> 			</AddElu>
+
+</XML>

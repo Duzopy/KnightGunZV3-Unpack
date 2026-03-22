@@ -1,0 +1,91 @@
+Starting BSP Export...
+object Object02 : Object02: 399 ver / 258 face 
+object BSP_Object_model_96 : BSP_Object_model_96: 24 ver / 6 face 
+object BSP_Object_model_97 : BSP_Object_model_97: 24 ver / 6 face 
+object BSP_Object_model_98 : BSP_Object_model_98: 24 ver / 6 face 
+object BSP_Object_model_99 : BSP_Object_model_99: 24 ver / 6 face 
+object BSP_Object_model_100 : BSP_Object_model_100: 24 ver / 6 face 
+object BSP_Object_model_101 : BSP_Object_model_101: 24 ver / 6 face 
+object BSP_Object_model_102 : BSP_Object_model_102: 24 ver / 6 face 
+object BSP_Object_model_103 : BSP_Object_model_103: 24 ver / 6 face 
+object BSP_Object_model_104 : BSP_Object_model_104: 24 ver / 6 face 
+object BSP_Object_model_105 : BSP_Object_model_105: 24 ver / 6 face 
+object BSP_Object_model_106 : BSP_Object_model_106: 24 ver / 6 face 
+object BSP_Object_model_107 : BSP_Object_model_107: 24 ver / 6 face 
+object BSP_Object_model_108 : BSP_Object_model_108: 24 ver / 6 face 
+object BSP_Object_model_109 : BSP_Object_model_109: 24 ver / 6 face 
+object BSP_Object_model_110 : BSP_Object_model_110: 24 ver / 6 face 
+object BSP_Object_model_111 : BSP_Object_model_111: 24 ver / 6 face 
+object BSP_Object_model_112 : BSP_Object_model_112: 24 ver / 6 face 
+object BSP_Object_model_113 : BSP_Object_model_113: 24 ver / 6 face 
+object BSP_Object_model_114 : BSP_Object_model_114: 24 ver / 6 face 
+object BSP_Object_model_116 : BSP_Object_model_116: 24 ver / 6 face 
+object BSP_Object_model_117 : BSP_Object_model_117: 24 ver / 6 face 
+object BSP_Object_model_118 : BSP_Object_model_118: 24 ver / 6 face 
+object BSP_Object_model_119 : BSP_Object_model_119: 24 ver / 6 face 
+object BSP_Object_model_120 : BSP_Object_model_120: 24 ver / 6 face 
+object BSP_Object_model_121 : BSP_Object_model_121: 24 ver / 6 face 
+object BSP_Object_model_122 : BSP_Object_model_122: 24 ver / 6 face 
+object BSP_Object_model_123 : BSP_Object_model_123: 24 ver / 6 face 
+object BSP_Object_model_124 : BSP_Object_model_124: 24 ver / 6 face 
+object BSP_Object_model_125 : BSP_Object_model_125: 24 ver / 6 face 
+object BSP_Object_model_126 : BSP_Object_model_126: 24 ver / 6 face 
+object BSP_Object_model_127 : BSP_Object_model_127: 24 ver / 6 face 
+object BSP_Object_model_128 : BSP_Object_model_128: 24 ver / 6 face 
+RSBsp Info : 486 faces
+Scene Dimension ( 12589.9 12378.6 750.1 )
+Export Objects.
+Export description.. 
+Saving Source Data.
+CSG union - 33 objects
+construct object subtree Object02 ( 294 source polygon ) : total 219 faces splitted 65 leaf nodes 306 nodes 882 polygons
+construct object subtree BSP_Object_model_96 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_97 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_98 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_99 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_100 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_101 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_102 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_103 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_104 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_105 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_106 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_107 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_108 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_109 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_110 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_111 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_112 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_113 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_114 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_116 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_117 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_118 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_119 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_120 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_121 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_122 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_123 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_124 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_125 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_126 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_127 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree BSP_Object_model_128 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+0 faces eliminated. (solid)
+758 source polygons remain
+optimized 499 polygons remain
+Generating Convex polygons...
+Optimize Polygon 486 -> 410 
+Constructing Collision BspTree. ( 499 source polygons )
+Collision Bsp Info : total 2855 faces splitted 227 leaf nodes 3543 nodes 6348 polygons
+Constructing OcTree. ( 410 source polygons )
+Octree Info : total 26 faces splitted 3 leaf nodes 5 nodes 436 polygons
+Constructing BspTree. ( 410 source polygons )
+RSBsp Info : total 477 faces splitted 254 leaf nodes 507 nodes 887 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+E:\Gunz\ZOMBI\bunker\bunker.RS file saved
+E:\Gunz\ZOMBI\bunker\bunker.RS.bsp file saved
+E:\Gunz\ZOMBI\bunker\bunker.RS.col file saved
+Exporting takes 0 minutes and     11 seconds.
+Done.

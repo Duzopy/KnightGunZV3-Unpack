@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+
+<!-- Category
+	default = 0 
+	0 - 일반
+	1 - 개인전
+	2 - 팀전
+	3 - 클랜전
+	4 - 왕초보
+	5 - 초보
+	6 - 중수
+	7 - 고수
+
+	MSG태그의 id는 특정한 조건에만 발동될 경우를 위해서 만들어놓음.
+-->
+
+<!-- 일반 -->
+<TIPS category="0">
+	<!-- STATIC TIPS -->
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+	<MSG></MSG>
+
+
+	<!-- GM Message -->
+	<MSG></MSG>
+	<MSG></MSG>
+
+	<!-- 새로 추가 -->
+	<MSG>I</MSG>
+	<MSG></MSG>
+
+	<!-- 클랜전 전용 -->
+	<MSG></MSG>
+	<MSG></MSG>
+</TIPS>  
+
+<!-- 왕초보 -->
+<TIPS category="4">
+	<MSG id="1"></MSG>
+</TIPS>
+
+<!-- 듀얼토너먼트 -->
+<TIPS category="8">
+	<MSG id="1"></MSG>
+</TIPS>
+</XML>

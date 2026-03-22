@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" ?>
+<XML>
+	<XMLHEADER>version="1.0"</XMLHEADER>
+
+	<SKIN>Default</SKIN>
+
+	<DEFFONT>Arial</DEFFONT>
+
+	<IME>false</IME>
+
+	<BAREPORT>
+		<ADDR>www.knightgamesonline.com</ADDR>
+		<DIR>incoming/gunz_US</DIR>
+	</BAREPORT>
+
+	<EMBLEM_URL>http://gunz.knightgamesonline.com/</EMBLEM_URL>
+	<TEMBLEM_URL>http://gunz.knightgamesonline.com/</TEMBLEM_URL>
+
+	<CASHSHOP_URL>http://gunz.knightgamesonline.com/</CASHSHOP_URL>
+
+	<HOMEPAGE>
+	    <URL>http://gunz.knightgamesonline.com/</URL>
+	    <TITLE>Knight GunZ</TITLE>
+	</HOMEPAGE>
+
+	<LOCATORLIST>
+		<LOCATOR id="1" IP="158.69.5.131" />
+	</LOCATORLIST>
+
+	<TLOCATORLIST>
+		<LOCATOR id="1" IP="158.69.5.131" />
+	</TLOCATORLIST>
+</XML>

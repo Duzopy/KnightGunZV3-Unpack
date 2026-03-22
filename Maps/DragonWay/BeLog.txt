@@ -1,0 +1,795 @@
+Starting BSP Export...
+object Object01 : Object01: 2134 ver / 1998 face 
+object Cylinder01 : Cylinder01: 120 ver / 101 face 
+object pass_Object02 : pass_Object02: 292 ver / 144 face 
+object Object02 : Object02: 1626 ver / 1417 face 
+object Object03 : Object03: 1626 ver / 1417 face 
+object Object04 : Object04: 1626 ver / 1417 face 
+object Object05 : Object05: 1468 ver / 1213 face 
+object pass_Object07 : pass_Object07: 56 ver / 24 face 
+object pass_Object06 : pass_Object06: 116 ver / 52 face 
+object Object06 : Object06: 79 ver / 59 face 
+object DrawCall_186 : DrawCall_186: 8 ver / 6 face 
+object DrawCall_251 : DrawCall_251: 8 ver / 6 face 
+object DrawCall_252 : DrawCall_252: 8 ver / 6 face 
+object DrawCall_253 : DrawCall_253: 8 ver / 6 face 
+object DrawCall_254 : DrawCall_254: 8 ver / 6 face 
+object Object07dasd : Object07dasd: 296 ver / 283 face 
+object Sphere01 : Sphere01: 62 ver / 72 face 
+object Sphere02 : Sphere02: 62 ver / 72 face 
+object Sphere04 : Sphere04: 62 ver / 72 face 
+object DrawCall_249 : DrawCall_249: 8 ver / 6 face 
+object pass_DrawCall_189 : pass_DrawCall_189: 8 ver / 6 face 
+object DrawCall_248 : DrawCall_248: 8 ver / 6 face 
+object DrawCall_185 : DrawCall_185: 8 ver / 6 face 
+object DrawCall_193 : DrawCall_193: 8 ver / 6 face 
+object DrawCall_194 : DrawCall_194: 8 ver / 6 face 
+object DrawCall_195 : DrawCall_195: 8 ver / 6 face 
+object pass_DrawCall_200 : pass_DrawCall_200: 8 ver / 6 face 
+object DrawCall_206 : DrawCall_206: 8 ver / 6 face 
+object pass_DrawCall_240 : pass_DrawCall_240: 8 ver / 6 face 
+object DrawCall_210 : DrawCall_210: 8 ver / 6 face 
+object DrawCall_211 : DrawCall_211: 8 ver / 6 face 
+object pass_DrawCall_212 : pass_DrawCall_212: 8 ver / 6 face 
+object pass_DrawCall_239 : pass_DrawCall_239: 8 ver / 6 face 
+object DrawCall_216 : DrawCall_216: 8 ver / 6 face 
+object DrawCall_217 : DrawCall_217: 8 ver / 6 face 
+object DrawCall_218 : DrawCall_218: 8 ver / 6 face 
+object DrawCall_238 : DrawCall_238: 8 ver / 6 face 
+object DrawCall_234 : DrawCall_234: 8 ver / 6 face 
+object DrawCall_228 : DrawCall_228: 8 ver / 6 face 
+object DrawCall_230 : DrawCall_230: 8 ver / 6 face 
+object DrawCall_229 : DrawCall_229: 8 ver / 6 face 
+object DrawCall_227 : DrawCall_227: 8 ver / 6 face 
+object pass_DrawCall_236 : pass_DrawCall_236: 8 ver / 6 face 
+object DrawCall_192 : DrawCall_192: 8 ver / 6 face 
+object DrawCall_184 : DrawCall_184: 8 ver / 6 face 
+object DrawCall_256 : DrawCall_256: 8 ver / 6 face 
+object pass_DrawCall_243 : pass_DrawCall_243: 8 ver / 6 face 
+object DrawCall_259 : DrawCall_259: 8 ver / 6 face 
+object DrawCall_260 : DrawCall_260: 8 ver / 6 face 
+object DrawCall_263 : DrawCall_263: 8 ver / 6 face 
+object DrawCall_264 : DrawCall_264: 8 ver / 6 face 
+object pass_DrawCall_245 : pass_DrawCall_245: 8 ver / 6 face 
+object DrawCall_266 : DrawCall_266: 8 ver / 6 face 
+object pass_DrawCall_246 : pass_DrawCall_246: 8 ver / 6 face 
+object DrawCall_272 : DrawCall_272: 8 ver / 6 face 
+object pass_DrawCall_248 : pass_DrawCall_248: 8 ver / 6 face 
+object DrawCall_274 : DrawCall_274: 8 ver / 6 face 
+object DrawCall_275 : DrawCall_275: 8 ver / 6 face 
+object pass_DrawCall_250 : pass_DrawCall_250: 8 ver / 6 face 
+object DrawCall_276 : DrawCall_276: 8 ver / 6 face 
+object DrawCall_277 : DrawCall_277: 8 ver / 6 face 
+object DrawCall_279 : DrawCall_279: 8 ver / 6 face 
+object DrawCall_280 : DrawCall_280: 8 ver / 6 face 
+object DrawCall_283 : DrawCall_283: 8 ver / 6 face 
+object DrawCall_284 : DrawCall_284: 8 ver / 6 face 
+object DrawCall_285 : DrawCall_285: 8 ver / 6 face 
+object DrawCall_286 : DrawCall_286: 8 ver / 6 face 
+object pass_DrawCall_253 : pass_DrawCall_253: 8 ver / 6 face 
+object DrawCall_289 : DrawCall_289: 8 ver / 6 face 
+object DrawCall_291 : DrawCall_291: 8 ver / 6 face 
+object DrawCall_292 : DrawCall_292: 8 ver / 6 face 
+object DrawCall_293 : DrawCall_293: 8 ver / 6 face 
+object DrawCall_295 : DrawCall_295: 8 ver / 6 face 
+object DrawCall_304 : DrawCall_304: 8 ver / 6 face 
+object DrawCall_305 : DrawCall_305: 8 ver / 6 face 
+object DrawCall_368 : DrawCall_368: 8 ver / 6 face 
+object DrawCall_369 : DrawCall_369: 8 ver / 6 face 
+object pass_DrawCall_270 : pass_DrawCall_270: 8 ver / 6 face 
+object DrawCall_381 : DrawCall_381: 8 ver / 6 face 
+object DrawCall_386 : DrawCall_386: 8 ver / 6 face 
+object DrawCall_389 : DrawCall_389: 8 ver / 6 face 
+object pass_DrawCall_276 : pass_DrawCall_276: 8 ver / 6 face 
+object DrawCall_392 : DrawCall_392: 8 ver / 6 face 
+object DrawCall_403 : DrawCall_403: 8 ver / 6 face 
+object DrawCall_404 : DrawCall_404: 8 ver / 6 face 
+object DrawCall_409 : DrawCall_409: 8 ver / 6 face 
+object pass_DrawCall_280 : pass_DrawCall_280: 8 ver / 6 face 
+object DrawCall_410 : DrawCall_410: 8 ver / 6 face 
+object DrawCall_411 : DrawCall_411: 8 ver / 6 face 
+object DrawCall_412 : DrawCall_412: 8 ver / 6 face 
+object DrawCall_413 : DrawCall_413: 8 ver / 6 face 
+object DrawCall_414 : DrawCall_414: 8 ver / 6 face 
+object DrawCall_415 : DrawCall_415: 8 ver / 6 face 
+object DrawCall_416 : DrawCall_416: 8 ver / 6 face 
+object DrawCall_417 : DrawCall_417: 8 ver / 6 face 
+object DrawCall_418 : DrawCall_418: 8 ver / 6 face 
+object DrawCall_419 : DrawCall_419: 8 ver / 6 face 
+object DrawCall_420 : DrawCall_420: 8 ver / 6 face 
+object pass_DrawCall_281 : pass_DrawCall_281: 8 ver / 6 face 
+object DrawCall_423 : DrawCall_423: 8 ver / 6 face 
+object pass_DrawCall_282 : pass_DrawCall_282: 8 ver / 6 face 
+object DrawCall_425 : DrawCall_425: 8 ver / 6 face 
+object DrawCall_426 : DrawCall_426: 8 ver / 6 face 
+object pass_DrawCall_283 : pass_DrawCall_283: 8 ver / 6 face 
+object DrawCall_429 : DrawCall_429: 8 ver / 6 face 
+object DrawCall_433 : DrawCall_433: 8 ver / 6 face 
+object DrawCall_434 : DrawCall_434: 8 ver / 6 face 
+object DrawCall_453 : DrawCall_453: 8 ver / 6 face 
+object DrawCall_456 : DrawCall_456: 8 ver / 6 face 
+object DrawCall_462 : DrawCall_462: 8 ver / 6 face 
+object pass_DrawCall_293 : pass_DrawCall_293: 8 ver / 6 face 
+object DrawCall_463 : DrawCall_463: 8 ver / 6 face 
+object DrawCall_464 : DrawCall_464: 8 ver / 6 face 
+object DrawCall_465 : DrawCall_465: 8 ver / 6 face 
+object DrawCall_467 : DrawCall_467: 8 ver / 6 face 
+object DrawCall_468 : DrawCall_468: 8 ver / 6 face 
+object DrawCall_469 : DrawCall_469: 8 ver / 6 face 
+object DrawCall_470 : DrawCall_470: 8 ver / 6 face 
+object DrawCall_471 : DrawCall_471: 8 ver / 6 face 
+object DrawCall_473 : DrawCall_473: 8 ver / 6 face 
+object pass_DrawCall_294 : pass_DrawCall_294: 8 ver / 6 face 
+object DrawCall_475 : DrawCall_475: 8 ver / 6 face 
+object DrawCall_477 : DrawCall_477: 8 ver / 6 face 
+object pass_DrawCall_295 : pass_DrawCall_295: 8 ver / 6 face 
+object DrawCall_478 : DrawCall_478: 8 ver / 6 face 
+object DrawCall_479 : DrawCall_479: 8 ver / 6 face 
+object pass_DrawCall_296 : pass_DrawCall_296: 8 ver / 6 face 
+object DrawCall_482 : DrawCall_482: 8 ver / 6 face 
+object DrawCall_487 : DrawCall_487: 8 ver / 6 face 
+object pass_DrawCall_298 : pass_DrawCall_298: 8 ver / 6 face 
+object pass_DrawCall_301 : pass_DrawCall_301: 8 ver / 6 face 
+object DrawCall_494 : DrawCall_494: 8 ver / 6 face 
+object pass_DrawCall_302 : pass_DrawCall_302: 8 ver / 6 face 
+object DrawCall_498 : DrawCall_498: 8 ver / 6 face 
+object DrawCall_506 : DrawCall_506: 8 ver / 6 face 
+object DrawCall_507 : DrawCall_507: 8 ver / 6 face 
+object DrawCall_510 : DrawCall_510: 8 ver / 6 face 
+object DrawCall_512 : DrawCall_512: 8 ver / 6 face 
+object DrawCall_514 : DrawCall_514: 8 ver / 6 face 
+object DrawCall_515 : DrawCall_515: 8 ver / 6 face 
+object DrawCall_516 : DrawCall_516: 8 ver / 6 face 
+object DrawCall_518 : DrawCall_518: 8 ver / 6 face 
+object DrawCall_520 : DrawCall_520: 8 ver / 6 face 
+object DrawCall_522 : DrawCall_522: 8 ver / 6 face 
+object DrawCall_525 : DrawCall_525: 8 ver / 6 face 
+object Object07dasd01 : Object07dasd01: 296 ver / 283 face 
+object Cylinder02 : Cylinder02: 22 ver / 13 face 
+object Object92 : Object92: 9 ver / 8 face 
+object pass_Object188 : pass_Object188: 9 ver / 8 face 
+object Object185 : Object185: 9 ver / 8 face 
+object Object184 : Object184: 9 ver / 8 face 
+object Object192 : Object192: 9 ver / 8 face 
+object Object182 : Object182: 9 ver / 8 face 
+object Object189 : Object189: 9 ver / 8 face 
+object Object187 : Object187: 9 ver / 8 face 
+object pass_Object183 : pass_Object183: 9 ver / 8 face 
+object Object193 : Object193: 9 ver / 8 face 
+object pass_Object190 : pass_Object190: 9 ver / 8 face 
+object Object191 : Object191: 9 ver / 8 face 
+object Object91 : Object91: 9 ver / 8 face 
+object Object181 : Object181: 9 ver / 8 face 
+object Object173 : Object173: 9 ver / 8 face 
+object Object180 : Object180: 9 ver / 8 face 
+object pass_Object176 : pass_Object176: 9 ver / 8 face 
+object Object177 : Object177: 9 ver / 8 face 
+object Object178 : Object178: 9 ver / 8 face 
+object Object179 : Object179: 9 ver / 8 face 
+object Object186 : Object186: 9 ver / 8 face 
+object pass_Object172 : pass_Object172: 9 ver / 8 face 
+object Object89 : Object89: 9 ver / 8 face 
+object Object171 : Object171: 9 ver / 8 face 
+object Object164 : Object164: 9 ver / 8 face 
+object Object165 : Object165: 9 ver / 8 face 
+object Object166 : Object166: 9 ver / 8 face 
+object pass_Object167 : pass_Object167: 9 ver / 8 face 
+object pass_Object168 : pass_Object168: 9 ver / 8 face 
+object Object169 : Object169: 9 ver / 8 face 
+object Object170 : Object170: 9 ver / 8 face 
+object Object174 : Object174: 9 ver / 8 face 
+object Object161 : Object161: 9 ver / 8 face 
+object Object158 : Object158: 9 ver / 8 face 
+object Object159 : Object159: 9 ver / 8 face 
+object pass_Object160 : pass_Object160: 9 ver / 8 face 
+object pass_Object163 : pass_Object163: 9 ver / 8 face 
+object Object162 : Object162: 9 ver / 8 face 
+object Object88 : Object88: 9 ver / 8 face 
+object Object156 : Object156: 9 ver / 8 face 
+object Object157 : Object157: 9 ver / 8 face 
+object Object155 : Object155: 9 ver / 8 face 
+object Object154 : Object154: 9 ver / 8 face 
+object Object152 : Object152: 9 ver / 8 face 
+object Object194 : Object194: 9 ver / 8 face 
+object DrawCall_527 : DrawCall_527: 8 ver / 6 face 
+object pass_DrawCall_308 : pass_DrawCall_308: 8 ver / 6 face 
+object DrawCall_529 : DrawCall_529: 8 ver / 6 face 
+object DrawCall_531 : DrawCall_531: 8 ver / 6 face 
+object DrawCall_532 : DrawCall_532: 8 ver / 6 face 
+object DrawCall_533 : DrawCall_533: 8 ver / 6 face 
+object DrawCall_534 : DrawCall_534: 8 ver / 6 face 
+object DrawCall_536 : DrawCall_536: 8 ver / 6 face 
+object pass_DrawCall_310 : pass_DrawCall_310: 8 ver / 6 face 
+object DrawCall_538 : DrawCall_538: 8 ver / 6 face 
+object pass_DrawCall_311 : pass_DrawCall_311: 8 ver / 6 face 
+object DrawCall_540 : DrawCall_540: 8 ver / 6 face 
+object DrawCall_542 : DrawCall_542: 8 ver / 6 face 
+object DrawCall_543 : DrawCall_543: 8 ver / 6 face 
+object DrawCall_544 : DrawCall_544: 8 ver / 6 face 
+object DrawCall_545 : DrawCall_545: 8 ver / 6 face 
+object DrawCall_547 : DrawCall_547: 8 ver / 6 face 
+object pass_DrawCall_313 : pass_DrawCall_313: 8 ver / 6 face 
+object DrawCall_549 : DrawCall_549: 8 ver / 6 face 
+object DrawCall_550 : DrawCall_550: 8 ver / 6 face 
+object pass_DrawCall_314 : pass_DrawCall_314: 8 ver / 6 face 
+object DrawCall_551 : DrawCall_551: 8 ver / 6 face 
+object pass_DrawCall_552 : pass_DrawCall_552: 8 ver / 6 face 
+object pass_DrawCall_315 : pass_DrawCall_315: 8 ver / 6 face 
+object DrawCall_553 : DrawCall_553: 8 ver / 6 face 
+object pass_DrawCall_554 : pass_DrawCall_554: 8 ver / 6 face 
+object DrawCall_555 : DrawCall_555: 8 ver / 6 face 
+object pass_DrawCall_556 : pass_DrawCall_556: 8 ver / 6 face 
+object DrawCall_557 : DrawCall_557: 8 ver / 6 face 
+object DrawCall_558 : DrawCall_558: 8 ver / 6 face 
+object DrawCall_559 : DrawCall_559: 8 ver / 6 face 
+object DrawCall_560 : DrawCall_560: 8 ver / 6 face 
+object pass_DrawCall_316 : pass_DrawCall_316: 8 ver / 6 face 
+object pass_DrawCall_561 : pass_DrawCall_561: 8 ver / 6 face 
+object pass_DrawCall_317 : pass_DrawCall_317: 8 ver / 6 face 
+object DrawCall_562 : DrawCall_562: 8 ver / 6 face 
+object DrawCall_563 : DrawCall_563: 8 ver / 6 face 
+object pass_DrawCall_318 : pass_DrawCall_318: 8 ver / 6 face 
+object pass_DrawCall_319 : pass_DrawCall_319: 8 ver / 6 face 
+object DrawCall_564 : DrawCall_564: 8 ver / 6 face 
+object DrawCall_565 : DrawCall_565: 8 ver / 6 face 
+object pass_DrawCall_566 : pass_DrawCall_566: 8 ver / 6 face 
+object DrawCall_567 : DrawCall_567: 8 ver / 6 face 
+object DrawCall_568 : DrawCall_568: 8 ver / 6 face 
+object DrawCall_569 : DrawCall_569: 8 ver / 6 face 
+object DrawCall_570 : DrawCall_570: 8 ver / 6 face 
+object DrawCall_571 : DrawCall_571: 8 ver / 6 face 
+object DrawCall_572 : DrawCall_572: 8 ver / 6 face 
+object Object195 : Object195: 9 ver / 8 face 
+object Object196 : Object196: 9 ver / 8 face 
+object pass_Object197 : pass_Object197: 9 ver / 8 face 
+object pass_Object198 : pass_Object198: 9 ver / 8 face 
+object pass_Object199 : pass_Object199: 9 ver / 8 face 
+object pass_Object200 : pass_Object200: 9 ver / 8 face 
+object pass_Object201 : pass_Object201: 9 ver / 8 face 
+object DrawCall_574 : DrawCall_574: 8 ver / 6 face 
+object pass_DrawCall_567 : pass_DrawCall_567: 8 ver / 6 face 
+object DrawCall_575 : DrawCall_575: 8 ver / 6 face 
+object DrawCall_576 : DrawCall_576: 8 ver / 6 face 
+object DrawCall_580 : DrawCall_580: 8 ver / 6 face 
+object DrawCall_581 : DrawCall_581: 8 ver / 6 face 
+object DrawCall_584 : DrawCall_584: 8 ver / 6 face 
+object pass_DrawCall_570 : pass_DrawCall_570: 8 ver / 6 face 
+object pass_DrawCall_572 : pass_DrawCall_572: 8 ver / 6 face 
+object pass_DrawCall_573 : pass_DrawCall_573: 8 ver / 6 face 
+object DrawCall_591 : DrawCall_591: 8 ver / 6 face 
+object pass_DrawCall_574 : pass_DrawCall_574: 8 ver / 6 face 
+object pass_DrawCall_575 : pass_DrawCall_575: 8 ver / 6 face 
+object DrawCall_594 : DrawCall_594: 8 ver / 6 face 
+object DrawCall_596 : DrawCall_596: 8 ver / 6 face 
+object DrawCall_599 : DrawCall_599: 8 ver / 6 face 
+object DrawCall_600 : DrawCall_600: 8 ver / 6 face 
+object DrawCall_604 : DrawCall_604: 8 ver / 6 face 
+object DrawCall_605 : DrawCall_605: 8 ver / 6 face 
+object DrawCall_609 : DrawCall_609: 8 ver / 6 face 
+object DrawCall_613 : DrawCall_613: 8 ver / 6 face 
+object DrawCall_617 : DrawCall_617: 8 ver / 6 face 
+object DrawCall_619 : DrawCall_619: 8 ver / 6 face 
+object DrawCall_623 : DrawCall_623: 8 ver / 6 face 
+object DrawCall_624 : DrawCall_624: 8 ver / 6 face 
+object DrawCall_625 : DrawCall_625: 8 ver / 6 face 
+object DrawCall_626 : DrawCall_626: 8 ver / 6 face 
+object pass_DrawCall_583 : pass_DrawCall_583: 8 ver / 6 face 
+object DrawCall_627 : DrawCall_627: 8 ver / 6 face 
+object DrawCall_628 : DrawCall_628: 8 ver / 6 face 
+object DrawCall_631 : DrawCall_631: 8 ver / 6 face 
+object DrawCall_632 : DrawCall_632: 8 ver / 6 face 
+object DrawCall_636 : DrawCall_636: 8 ver / 6 face 
+object pass_DrawCall_586 : pass_DrawCall_586: 8 ver / 6 face 
+object DrawCall_640 : DrawCall_640: 8 ver / 6 face 
+object DrawCall_641 : DrawCall_641: 8 ver / 6 face 
+object pass_DrawCall_589 : pass_DrawCall_589: 8 ver / 6 face 
+object DrawCall_643 : DrawCall_643: 8 ver / 6 face 
+object DrawCall_644 : DrawCall_644: 8 ver / 6 face 
+object pass_DrawCall_590 : pass_DrawCall_590: 8 ver / 6 face 
+object pass_DrawCall_591 : pass_DrawCall_591: 8 ver / 6 face 
+object DrawCall_646 : DrawCall_646: 8 ver / 6 face 
+object DrawCall_647 : DrawCall_647: 8 ver / 6 face 
+object DrawCall_651 : DrawCall_651: 8 ver / 6 face 
+object DrawCall_655 : DrawCall_655: 8 ver / 6 face 
+object DrawCall_656 : DrawCall_656: 8 ver / 6 face 
+object DrawCall_657 : DrawCall_657: 8 ver / 6 face 
+object pass_DrawCall_594 : pass_DrawCall_594: 8 ver / 6 face 
+object DrawCall_660 : DrawCall_660: 8 ver / 6 face 
+object DrawCall_661 : DrawCall_661: 8 ver / 6 face 
+object pass_DrawCall_596 : pass_DrawCall_596: 8 ver / 6 face 
+object DrawCall_667 : DrawCall_667: 8 ver / 6 face 
+object DrawCall_669 : DrawCall_669: 8 ver / 6 face 
+object DrawCall_670 : DrawCall_670: 8 ver / 6 face 
+object DrawCall_671 : DrawCall_671: 8 ver / 6 face 
+object DrawCall_672 : DrawCall_672: 8 ver / 6 face 
+object DrawCall_676 : DrawCall_676: 8 ver / 6 face 
+object DrawCall_677 : DrawCall_677: 8 ver / 6 face 
+object DrawCall_679 : DrawCall_679: 8 ver / 6 face 
+object DrawCall_681 : DrawCall_681: 8 ver / 6 face 
+object DrawCall_682 : DrawCall_682: 8 ver / 6 face 
+object DrawCall_684 : DrawCall_684: 8 ver / 6 face 
+object DrawCall_685 : DrawCall_685: 8 ver / 6 face 
+object DrawCall_686 : DrawCall_686: 8 ver / 6 face 
+object pass_DrawCall_601 : pass_DrawCall_601: 8 ver / 6 face 
+object DrawCall_687 : DrawCall_687: 8 ver / 6 face 
+object pass_DrawCall_602 : pass_DrawCall_602: 8 ver / 6 face 
+object DrawCall_691 : DrawCall_691: 8 ver / 6 face 
+object DrawCall_692 : DrawCall_692: 8 ver / 6 face 
+object DrawCall_693 : DrawCall_693: 8 ver / 6 face 
+object pass_DrawCall_605 : pass_DrawCall_605: 8 ver / 6 face 
+object DrawCall_697 : DrawCall_697: 8 ver / 6 face 
+object DrawCall_701 : DrawCall_701: 8 ver / 6 face 
+object pass_DrawCall_608 : pass_DrawCall_608: 8 ver / 6 face 
+object DrawCall_703 : DrawCall_703: 8 ver / 6 face 
+object DrawCall_708 : DrawCall_708: 8 ver / 6 face 
+object DrawCall_709 : DrawCall_709: 8 ver / 6 face 
+object DrawCall_719 : DrawCall_719: 8 ver / 6 face 
+object DrawCall_724 : DrawCall_724: 8 ver / 6 face 
+object DrawCall_727 : DrawCall_727: 8 ver / 6 face 
+object DrawCall_728 : DrawCall_728: 8 ver / 6 face 
+object DrawCall_363 : DrawCall_363: 8 ver / 6 face 
+object DrawCall_359 : DrawCall_359: 8 ver / 6 face 
+object DrawCall_348 : DrawCall_348: 8 ver / 6 face 
+object pass_DrawCall_266 : pass_DrawCall_266: 8 ver / 6 face 
+object DrawCall_344 : DrawCall_344: 8 ver / 6 face 
+object DrawCall_343 : DrawCall_343: 8 ver / 6 face 
+object DrawCall_342 : DrawCall_342: 8 ver / 6 face 
+object DrawCall_339 : DrawCall_339: 8 ver / 6 face 
+object DrawCall_337 : DrawCall_337: 8 ver / 6 face 
+object DrawCall_335 : DrawCall_335: 8 ver / 6 face 
+object DrawCall_334 : DrawCall_334: 8 ver / 6 face 
+object pass_DrawCall_261 : pass_DrawCall_261: 8 ver / 6 face 
+object DrawCall_332 : DrawCall_332: 8 ver / 6 face 
+object DrawCall_330 : DrawCall_330: 8 ver / 6 face 
+object pass_DrawCall_259 : pass_DrawCall_259: 8 ver / 6 face 
+object DrawCall_324 : DrawCall_324: 8 ver / 6 face 
+object DrawCall_323 : DrawCall_323: 8 ver / 6 face 
+object DrawCall_322 : DrawCall_322: 8 ver / 6 face 
+object DrawCall_321 : DrawCall_321: 8 ver / 6 face 
+object DrawCall_320 : DrawCall_320: 8 ver / 6 face 
+object DrawCall_319 : DrawCall_319: 8 ver / 6 face 
+object Object197 : Object197: 9 ver / 8 face 
+object Object198 : Object198: 9 ver / 8 face 
+object Object208 : Object208: 9 ver / 8 face 
+object Object210 : Object210: 9 ver / 8 face 
+object Object212 : Object212: 9 ver / 8 face 
+object Object213 : Object213: 9 ver / 8 face 
+object Object214 : Object214: 9 ver / 8 face 
+object Object215 : Object215: 9 ver / 8 face 
+object Object216 : Object216: 9 ver / 8 face 
+object Object217 : Object217: 9 ver / 8 face 
+object Object218 : Object218: 9 ver / 8 face 
+object Object219 : Object219: 9 ver / 8 face 
+object Object220 : Object220: 9 ver / 8 face 
+object Object221 : Object221: 9 ver / 8 face 
+object Object222 : Object222: 9 ver / 8 face 
+object Object223 : Object223: 9 ver / 8 face 
+object pass_Object224 : pass_Object224: 9 ver / 8 face 
+object Object225 : Object225: 9 ver / 8 face 
+object pass_Object226 : pass_Object226: 9 ver / 8 face 
+object Object227 : Object227: 9 ver / 8 face 
+object Object228 : Object228: 9 ver / 8 face 
+object pass_Object229 : pass_Object229: 9 ver / 8 face 
+object pass_Object230 : pass_Object230: 9 ver / 8 face 
+object Object231 : Object231: 9 ver / 8 face 
+object Object232 : Object232: 9 ver / 8 face 
+object Object233 : Object233: 9 ver / 8 face 
+object Object234 : Object234: 9 ver / 8 face 
+object pass_Object231 : pass_Object231: 9 ver / 8 face 
+object Object235 : Object235: 9 ver / 8 face 
+object pass_Object236 : pass_Object236: 9 ver / 8 face 
+object Object237 : Object237: 9 ver / 8 face 
+object pass_Object232 : pass_Object232: 9 ver / 8 face 
+object Object238 : Object238: 9 ver / 8 face 
+object pass_Object233 : pass_Object233: 9 ver / 8 face 
+object Object239 : Object239: 9 ver / 8 face 
+object pass_Object240 : pass_Object240: 9 ver / 8 face 
+object Object241 : Object241: 9 ver / 8 face 
+object Object242 : Object242: 9 ver / 8 face 
+object Object243 : Object243: 9 ver / 8 face 
+object Object244 : Object244: 9 ver / 8 face 
+object Object245 : Object245: 9 ver / 8 face 
+object pass_Object234 : pass_Object234: 9 ver / 8 face 
+object Object246 : Object246: 9 ver / 8 face 
+object Object247 : Object247: 9 ver / 8 face 
+object Object248 : Object248: 9 ver / 8 face 
+object pass_Object235 : pass_Object235: 9 ver / 8 face 
+object pass_Object249 : pass_Object249: 9 ver / 8 face 
+object pass_Object236 : pass_Object236: 9 ver / 8 face 
+object Object250 : Object250: 9 ver / 8 face 
+object Object251 : Object251: 9 ver / 8 face 
+object pass_Object252 : pass_Object252: 9 ver / 8 face 
+object Object253 : Object253: 9 ver / 8 face 
+object pass_Object254 : pass_Object254: 9 ver / 8 face 
+object Object255 : Object255: 9 ver / 8 face 
+object DrawCall_167 : DrawCall_167: 8 ver / 6 face 
+object DrawCall_0166 : DrawCall_0166: 8 ver / 6 face 
+object DrawCall_168 : DrawCall_168: 8 ver / 6 face 
+object DrawCall_172 : DrawCall_172: 8 ver / 6 face 
+object DrawCall_173 : DrawCall_173: 8 ver / 6 face 
+object DrawCall_174 : DrawCall_174: 8 ver / 6 face 
+object DrawCall_175 : DrawCall_175: 8 ver / 6 face 
+object DrawCall_176 : DrawCall_176: 8 ver / 6 face 
+object DrawCall_177 : DrawCall_177: 8 ver / 6 face 
+object DrawCall_178 : DrawCall_178: 8 ver / 6 face 
+object DrawCall_179 : DrawCall_179: 8 ver / 6 face 
+object DrawCall_180 : DrawCall_180: 8 ver / 6 face 
+object DrawCall_181 : DrawCall_181: 8 ver / 6 face 
+object DrawCall_182 : DrawCall_182: 8 ver / 6 face 
+object DrawCall_183 : DrawCall_183: 8 ver / 6 face 
+object DrawCall_309 : DrawCall_309: 8 ver / 6 face 
+object DrawCall_310 : DrawCall_310: 8 ver / 6 face 
+object DrawCall_311 : DrawCall_311: 8 ver / 6 face 
+object DrawCall_312 : DrawCall_312: 8 ver / 6 face 
+object DrawCall_313 : DrawCall_313: 8 ver / 6 face 
+object DrawCall_314 : DrawCall_314: 8 ver / 6 face 
+object Object256 : Object256: 79 ver / 59 face 
+object Object258 : Object258: 9 ver / 8 face 
+object Object260 : Object260: 9 ver / 8 face 
+object Object262 : Object262: 9 ver / 8 face 
+object DrawCall_729 : DrawCall_729: 8 ver / 6 face 
+object DrawCall_730 : DrawCall_730: 8 ver / 6 face 
+object DrawCall_731 : DrawCall_731: 8 ver / 6 face 
+RSBsp Info : 13733 faces
+Scene Dimension ( 43661.6 157581.2 73166.0 )
+Export Objects.
+Export description.. 
+Saving Source Data.
+CSG union - 339 objects
+construct object subtree Object01 ( 2472 source polygon ) : total 6915 faces splitted 5368 leaf nodes 13585 nodes 15016 polygons
+construct object subtree Cylinder01 ( 101 source polygon ) : total 33 faces splitted 38 leaf nodes 82 nodes 290 polygons
+construct object subtree Object02 ( 1706 source polygon ) : total 3794 faces splitted 3247 leaf nodes 8481 nodes 8334 polygons
+construct object subtree Object03 ( 1617 source polygon ) : total 3534 faces splitted 2809 leaf nodes 7531 nodes 7879 polygons
+construct object subtree Object04 ( 1626 source polygon ) : total 3661 faces splitted 3057 leaf nodes 7976 nodes 8160 polygons
+construct object subtree Object05 ( 1267 source polygon ) : total 2711 faces splitted 2223 leaf nodes 5806 nodes 6106 polygons
+construct object subtree Object06 ( 62 source polygon ) : total 3 faces splitted 24 leaf nodes 49 nodes 158 polygons
+construct object subtree DrawCall_186 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_251 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_252 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+construct object subtree DrawCall_253 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+construct object subtree DrawCall_254 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+construct object subtree Object07dasd ( 379 source polygon ) : total 931 faces splitted 798 leaf nodes 1895 nodes 2142 polygons
+construct object subtree Sphere01 ( 120 source polygon ) : total 5 faces splitted 75 leaf nodes 151 nodes 128 polygons
+construct object subtree Sphere02 ( 120 source polygon ) : total 20 faces splitted 84 leaf nodes 172 nodes 152 polygons
+construct object subtree Sphere04 ( 120 source polygon ) : total 20 faces splitted 84 leaf nodes 172 nodes 152 polygons
+construct object subtree DrawCall_249 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_248 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_185 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_193 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_194 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_195 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_206 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_210 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_211 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_216 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_217 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_218 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_238 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_234 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_228 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_230 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_229 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_227 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_192 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_184 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_256 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_259 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_260 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_263 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_264 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_266 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_272 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_274 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_275 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_276 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_277 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_279 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_280 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_283 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_284 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_285 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_286 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_289 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_291 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_292 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_293 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_295 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_304 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_305 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_368 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_369 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_381 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_386 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_389 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_392 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_403 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_404 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_409 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_410 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_411 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_412 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_413 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_414 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_415 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_416 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_417 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_418 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_419 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_420 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_423 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_425 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_426 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_429 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_433 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_434 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_453 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_456 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_462 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_463 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_464 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_465 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_467 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_468 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_469 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_470 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_471 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_473 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_475 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_477 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_478 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_479 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_482 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_487 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_494 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_498 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_506 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_507 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_510 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_512 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_514 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_515 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_516 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_518 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_520 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_522 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_525 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree Object07dasd01 ( 380 source polygon ) : total 941 faces splitted 805 leaf nodes 1915 nodes 2161 polygons
+construct object subtree Cylinder02 ( 13 source polygon ) : total 0 faces splitted 13 leaf nodes 26 nodes 40 polygons
+construct object subtree Object92 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object185 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object184 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object192 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object182 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object189 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object187 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object193 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object191 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object91 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object181 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object173 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object180 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object177 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object178 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object179 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object186 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object89 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object171 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object164 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object165 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object166 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object169 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object170 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object174 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object161 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object158 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object159 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object162 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object88 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object156 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object157 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object155 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object154 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object152 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object194 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree DrawCall_527 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_529 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_531 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_532 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_533 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_534 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_536 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_538 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_540 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_542 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_543 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_544 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_545 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_547 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_549 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_550 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_551 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_553 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_555 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_557 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_558 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_559 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_560 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_562 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_563 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_564 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_565 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_567 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_568 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_569 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_570 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_571 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_572 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree Object195 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object196 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree DrawCall_574 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_575 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_576 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_580 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_581 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_584 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_591 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_594 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_596 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_599 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_600 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_604 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_605 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_609 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_613 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_617 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_619 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_623 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_624 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_625 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_626 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_627 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_628 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_631 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_632 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_636 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_640 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_641 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_643 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_644 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_646 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_647 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_651 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_655 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_656 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_657 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_660 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_661 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_667 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_669 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_670 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_671 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_672 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_676 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_677 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_679 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_681 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_682 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_684 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_685 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_686 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_687 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_691 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_692 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_693 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_697 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_701 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_703 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_708 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_709 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_719 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_724 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_727 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_728 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_363 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_359 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_348 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_344 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_343 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_342 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_339 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_337 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_335 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_334 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_332 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_330 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_324 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_323 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_322 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_321 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_320 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_319 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree Object197 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object198 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object208 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object210 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object212 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object213 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object214 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object215 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object216 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object217 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object218 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object219 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object220 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object221 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object222 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object223 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object225 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object227 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object228 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object231 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object232 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object233 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object234 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object235 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object237 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object238 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object239 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object241 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object242 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object243 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object244 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object245 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object246 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object247 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object248 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object250 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object251 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree Object253 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object255 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree DrawCall_167 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_0166 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_168 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_172 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_173 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_174 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_175 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_176 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_177 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_178 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_179 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_180 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_181 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_182 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_183 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_309 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_310 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_311 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_312 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree DrawCall_313 ( 7 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 14 polygons
+construct object subtree DrawCall_314 ( 6 source polygon ) : total 0 faces splitted 6 leaf nodes 12 nodes 12 polygons
+construct object subtree Object256 ( 62 source polygon ) : total 3 faces splitted 24 leaf nodes 49 nodes 159 polygons
+construct object subtree Object258 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object260 ( 12 source polygon ) : total 6 faces splitted 15 leaf nodes 33 nodes 22 polygons
+construct object subtree Object262 ( 11 source polygon ) : total 6 faces splitted 14 leaf nodes 31 nodes 22 polygons
+construct object subtree DrawCall_729 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+construct object subtree DrawCall_730 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+construct object subtree DrawCall_731 ( 12 source polygon ) : total 7 faces splitted 10 leaf nodes 22 nodes 22 polygons
+0 faces eliminated. (solid)
+13396 source polygons remain
+optimized 12687 polygons remain
+Generating Convex polygons...
+Optimize Polygon 13733 -> 13593 
+Constructing Collision BspTree. ( 12687 source polygons )
+Collision Bsp Info : total 139872 faces splitted 19836 leaf nodes 170870 nodes 173328 polygons
+Constructing OcTree. ( 13593 source polygons )
+Octree Info : total 1258 faces splitted 48 leaf nodes 141 nodes 14851 polygons
+Constructing BspTree. ( 13593 source polygons )
+RSBsp Info : total 18521 faces splitted 18757 leaf nodes 37513 nodes 32114 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\dball\dball.RS file saved
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\dball\dball.RS.bsp file saved
+E:\Gunz\LADDER\Coliseo Map 01\Coliseo\decompiler\dball\dball.RS.col file saved
+Exporting takes 5 minutes and     25 seconds.
+Done.

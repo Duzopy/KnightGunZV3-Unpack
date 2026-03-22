@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<XML>
+	<GAMETYPE id="solo">
+		<SPAWN item="hp03" timesec="45000">
+			<POSITION>1836.0290527 -1669.4648438 3049.4436035</POSITION>
+		</SPAWN>
+		<SPAWN item="hp02" timesec="30000">
+			<POSITION>59.6669922 -3004.5952148 2436.2158203</POSITION>
+		</SPAWN>
+</GAMETYPE><GAMETYPE id="team">
+</GAMETYPE>
+</XML>

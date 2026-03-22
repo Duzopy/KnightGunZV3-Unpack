@@ -1,0 +1,1147 @@
+Starting BSP Export...
+object Object064 : Object064: 60 ver / 45 face 
+object Object02 : Object02: 12 ver / 8 face 
+object Plane02 : Plane02: 4 ver / 1 face 
+object passr_pass_Object01 : passr_pass_Object01: 8 ver / 2 face 
+object passr_pass_Object02 : passr_pass_Object02: 8 ver / 2 face 
+object passr_pass_Object03 : passr_pass_Object03: 8 ver / 2 face 
+object passr_pass_Object04 : passr_pass_Object04: 8 ver / 2 face 
+object passr_pass_Object05 : passr_pass_Object05: 8 ver / 2 face 
+object passr_pass_Object06 : passr_pass_Object06: 8 ver / 2 face 
+object passr_pass_Object07 : passr_pass_Object07: 8 ver / 2 face 
+object passr_pass_Object08 : passr_pass_Object08: 8 ver / 2 face 
+object passr_pass_Object09 : passr_pass_Object09: 8 ver / 2 face 
+object passr_pass_Object10 : passr_pass_Object10: 8 ver / 2 face 
+object passr_pass_Object11 : passr_pass_Object11: 8 ver / 2 face 
+object passr_pass_Object12 : passr_pass_Object12: 8 ver / 2 face 
+object passr_pass_Object13 : passr_pass_Object13: 8 ver / 2 face 
+object passr_pass_Object14 : passr_pass_Object14: 8 ver / 2 face 
+object passr_pass_Object15 : passr_pass_Object15: 8 ver / 2 face 
+object passr_pass_Object16 : passr_pass_Object16: 8 ver / 2 face 
+object passr_pass_Object17 : passr_pass_Object17: 8 ver / 2 face 
+object passr_pass_Object18 : passr_pass_Object18: 8 ver / 2 face 
+object passr_pass_Object19 : passr_pass_Object19: 8 ver / 2 face 
+object passr_pass_Object20 : passr_pass_Object20: 8 ver / 2 face 
+object passr_pass_Object21 : passr_pass_Object21: 8 ver / 2 face 
+object passr_pass_Object22 : passr_pass_Object22: 8 ver / 2 face 
+object passr_pass_Object23 : passr_pass_Object23: 8 ver / 2 face 
+object passr_pass_Object24 : passr_pass_Object24: 8 ver / 2 face 
+object passr_pass_Object25 : passr_pass_Object25: 8 ver / 2 face 
+object passr_pass_Object26 : passr_pass_Object26: 8 ver / 2 face 
+object passr_pass_Object27 : passr_pass_Object27: 8 ver / 2 face 
+object passr_pass_Object28 : passr_pass_Object28: 8 ver / 2 face 
+object passr_pass_Object29 : passr_pass_Object29: 8 ver / 2 face 
+object passr_pass_Object30 : passr_pass_Object30: 8 ver / 2 face 
+object passr_pass_Object31 : passr_pass_Object31: 8 ver / 2 face 
+object passr_pass_Object32 : passr_pass_Object32: 8 ver / 2 face 
+object passr_pass_Object33 : passr_pass_Object33: 8 ver / 2 face 
+object passr_pass_Object34 : passr_pass_Object34: 8 ver / 2 face 
+object passr_pass_Object35 : passr_pass_Object35: 8 ver / 2 face 
+object passr_pass_Object36 : passr_pass_Object36: 8 ver / 2 face 
+object passr_pass_Object37 : passr_pass_Object37: 8 ver / 2 face 
+object passr_pass_Object38 : passr_pass_Object38: 8 ver / 2 face 
+object passr_pass_Object39 : passr_pass_Object39: 8 ver / 2 face 
+object passr_pass_Object40 : passr_pass_Object40: 8 ver / 2 face 
+object passr_pass_Object41 : passr_pass_Object41: 8 ver / 2 face 
+object passr_pass_Object42 : passr_pass_Object42: 8 ver / 2 face 
+object passr_pass_Object43 : passr_pass_Object43: 8 ver / 2 face 
+object passr_pass_Object44 : passr_pass_Object44: 8 ver / 2 face 
+object passr_pass_Object45 : passr_pass_Object45: 8 ver / 2 face 
+object passr_pass_Object46 : passr_pass_Object46: 8 ver / 2 face 
+object passr_pass_Object47 : passr_pass_Object47: 8 ver / 2 face 
+object passr_pass_Object48 : passr_pass_Object48: 8 ver / 2 face 
+object passr_pass_Object49 : passr_pass_Object49: 8 ver / 2 face 
+object passr_pass_Object50 : passr_pass_Object50: 8 ver / 2 face 
+object passr_pass_Object51 : passr_pass_Object51: 8 ver / 2 face 
+object passr_pass_Object52 : passr_pass_Object52: 8 ver / 2 face 
+object passr_pass_Object53 : passr_pass_Object53: 8 ver / 2 face 
+object passr_pass_Object54 : passr_pass_Object54: 8 ver / 2 face 
+object passr_pass_Object55 : passr_pass_Object55: 8 ver / 2 face 
+object passr_pass_Object56 : passr_pass_Object56: 8 ver / 2 face 
+object passr_pass_Object57 : passr_pass_Object57: 8 ver / 2 face 
+object passr_pass_Object58 : passr_pass_Object58: 8 ver / 2 face 
+object passr_pass_Object59 : passr_pass_Object59: 8 ver / 2 face 
+object passr_pass_Object60 : passr_pass_Object60: 8 ver / 2 face 
+object passr_pass_Object61 : passr_pass_Object61: 8 ver / 2 face 
+object passr_pass_Object62 : passr_pass_Object62: 8 ver / 2 face 
+object passr_pass_Object63 : passr_pass_Object63: 8 ver / 2 face 
+object passr_pass_Object64 : passr_pass_Object64: 8 ver / 2 face 
+object passr_pass_Object65 : passr_pass_Object65: 8 ver / 2 face 
+object passr_pass_Object66 : passr_pass_Object66: 8 ver / 2 face 
+object passr_pass_Object67 : passr_pass_Object67: 8 ver / 2 face 
+object passr_pass_Object68 : passr_pass_Object68: 8 ver / 2 face 
+object passr_pass_Object69 : passr_pass_Object69: 8 ver / 2 face 
+object passr_pass_Object70 : passr_pass_Object70: 8 ver / 2 face 
+object passr_pass_Object71 : passr_pass_Object71: 8 ver / 2 face 
+object passr_pass_Object72 : passr_pass_Object72: 8 ver / 2 face 
+object passr_pass_Object73 : passr_pass_Object73: 8 ver / 2 face 
+object passr_pass_Object74 : passr_pass_Object74: 8 ver / 2 face 
+object passr_pass_Object75 : passr_pass_Object75: 8 ver / 2 face 
+object passr_pass_Object76 : passr_pass_Object76: 8 ver / 2 face 
+object passr_pass_Object77 : passr_pass_Object77: 8 ver / 2 face 
+object passr_pass_Object78 : passr_pass_Object78: 8 ver / 2 face 
+object passr_pass_Object79 : passr_pass_Object79: 8 ver / 2 face 
+object passr_pass_Object80 : passr_pass_Object80: 8 ver / 2 face 
+object passr_pass_Object81 : passr_pass_Object81: 8 ver / 2 face 
+object passr_pass_Object82 : passr_pass_Object82: 8 ver / 2 face 
+object passr_pass_Object83 : passr_pass_Object83: 8 ver / 2 face 
+object passr_pass_Object84 : passr_pass_Object84: 8 ver / 2 face 
+object passr_pass_Object85 : passr_pass_Object85: 8 ver / 2 face 
+object passr_pass_Object86 : passr_pass_Object86: 8 ver / 2 face 
+object passr_pass_Object87 : passr_pass_Object87: 8 ver / 2 face 
+object passr_pass_Object88 : passr_pass_Object88: 8 ver / 2 face 
+object passr_pass_Object89 : passr_pass_Object89: 8 ver / 2 face 
+object passr_pass_Object90 : passr_pass_Object90: 8 ver / 2 face 
+object passr_pass_Object91 : passr_pass_Object91: 8 ver / 2 face 
+object passr_pass_Object92 : passr_pass_Object92: 8 ver / 2 face 
+object passr_pass_Object93 : passr_pass_Object93: 8 ver / 2 face 
+object passr_pass_Object94 : passr_pass_Object94: 8 ver / 2 face 
+object passr_pass_Object95 : passr_pass_Object95: 8 ver / 2 face 
+object passr_pass_Object96 : passr_pass_Object96: 8 ver / 2 face 
+object passr_pass_Object97 : passr_pass_Object97: 8 ver / 2 face 
+object passr_pass_Object98 : passr_pass_Object98: 8 ver / 2 face 
+object passr_pass_Object99 : passr_pass_Object99: 8 ver / 2 face 
+object passr_pass_Object100 : passr_pass_Object100: 8 ver / 2 face 
+object passr_pass_Object101 : passr_pass_Object101: 8 ver / 2 face 
+object passr_pass_Object102 : passr_pass_Object102: 8 ver / 2 face 
+object passr_pass_Object103 : passr_pass_Object103: 8 ver / 2 face 
+object passr_pass_Object104 : passr_pass_Object104: 8 ver / 2 face 
+object passr_pass_Object105 : passr_pass_Object105: 8 ver / 2 face 
+object passr_pass_Object106 : passr_pass_Object106: 8 ver / 2 face 
+object passr_pass_Object107 : passr_pass_Object107: 8 ver / 2 face 
+object passr_pass_Object108 : passr_pass_Object108: 8 ver / 2 face 
+object passr_pass_Object109 : passr_pass_Object109: 8 ver / 2 face 
+object passr_pass_Object110 : passr_pass_Object110: 8 ver / 2 face 
+object passr_pass_Object111 : passr_pass_Object111: 8 ver / 2 face 
+object passr_pass_Object112 : passr_pass_Object112: 8 ver / 2 face 
+object passr_pass_Object113 : passr_pass_Object113: 8 ver / 2 face 
+object passr_pass_Object114 : passr_pass_Object114: 8 ver / 2 face 
+object passr_pass_Object115 : passr_pass_Object115: 8 ver / 2 face 
+object passr_pass_Object116 : passr_pass_Object116: 8 ver / 2 face 
+object passr_pass_Object117 : passr_pass_Object117: 8 ver / 2 face 
+object passr_pass_Object118 : passr_pass_Object118: 8 ver / 2 face 
+object passr_pass_Object119 : passr_pass_Object119: 8 ver / 2 face 
+object passr_pass_Object120 : passr_pass_Object120: 8 ver / 2 face 
+object passr_pass_Object121 : passr_pass_Object121: 8 ver / 2 face 
+object passr_pass_Object122 : passr_pass_Object122: 8 ver / 2 face 
+object passr_pass_Object123 : passr_pass_Object123: 8 ver / 2 face 
+object passr_pass_Object124 : passr_pass_Object124: 8 ver / 2 face 
+object passr_pass_Object125 : passr_pass_Object125: 8 ver / 2 face 
+object passr_pass_Object126 : passr_pass_Object126: 8 ver / 2 face 
+object passr_pass_Object127 : passr_pass_Object127: 8 ver / 2 face 
+object passr_pass_Object128 : passr_pass_Object128: 8 ver / 2 face 
+object passr_pass_Object129 : passr_pass_Object129: 8 ver / 2 face 
+object passr_pass_Object130 : passr_pass_Object130: 8 ver / 2 face 
+object passr_pass_Object131 : passr_pass_Object131: 8 ver / 2 face 
+object passr_pass_Object132 : passr_pass_Object132: 8 ver / 2 face 
+object passr_pass_Object133 : passr_pass_Object133: 8 ver / 2 face 
+object passr_pass_Object134 : passr_pass_Object134: 8 ver / 2 face 
+object passr_pass_Object135 : passr_pass_Object135: 8 ver / 2 face 
+object passr_pass_Object136 : passr_pass_Object136: 8 ver / 2 face 
+object passr_pass_Object137 : passr_pass_Object137: 8 ver / 2 face 
+object passr_pass_Object138 : passr_pass_Object138: 8 ver / 2 face 
+object passr_pass_Object139 : passr_pass_Object139: 8 ver / 2 face 
+object passr_pass_Object140 : passr_pass_Object140: 8 ver / 2 face 
+object passr_pass_Object141 : passr_pass_Object141: 8 ver / 2 face 
+object passr_pass_Object142 : passr_pass_Object142: 8 ver / 2 face 
+object passr_pass_Object143 : passr_pass_Object143: 8 ver / 2 face 
+object passr_pass_Object144 : passr_pass_Object144: 8 ver / 2 face 
+object passr_pass_Object145 : passr_pass_Object145: 8 ver / 2 face 
+object passr_pass_Object146 : passr_pass_Object146: 8 ver / 2 face 
+object passr_pass_Object147 : passr_pass_Object147: 8 ver / 2 face 
+object passr_pass_Object148 : passr_pass_Object148: 8 ver / 2 face 
+object passr_pass_Object149 : passr_pass_Object149: 8 ver / 2 face 
+object passr_pass_Object150 : passr_pass_Object150: 8 ver / 2 face 
+object passr_pass_Object151 : passr_pass_Object151: 8 ver / 2 face 
+object passr_pass_Object152 : passr_pass_Object152: 8 ver / 2 face 
+object passr_pass_Object153 : passr_pass_Object153: 8 ver / 2 face 
+object passr_pass_Object154 : passr_pass_Object154: 8 ver / 2 face 
+object passr_pass_Object155 : passr_pass_Object155: 8 ver / 2 face 
+object passr_pass_Object156 : passr_pass_Object156: 8 ver / 2 face 
+object passr_pass_Object157 : passr_pass_Object157: 8 ver / 2 face 
+object passr_pass_Object158 : passr_pass_Object158: 8 ver / 2 face 
+object passr_pass_Object159 : passr_pass_Object159: 8 ver / 2 face 
+object passr_pass_Object160 : passr_pass_Object160: 8 ver / 2 face 
+object passr_pass_Object161 : passr_pass_Object161: 8 ver / 2 face 
+object passr_pass_Object162 : passr_pass_Object162: 8 ver / 2 face 
+object passr_pass_Object163 : passr_pass_Object163: 8 ver / 2 face 
+object passr_pass_Object164 : passr_pass_Object164: 8 ver / 2 face 
+object passr_pass_Object165 : passr_pass_Object165: 8 ver / 2 face 
+object passr_pass_Object166 : passr_pass_Object166: 8 ver / 2 face 
+object passr_pass_Object167 : passr_pass_Object167: 8 ver / 2 face 
+object passr_pass_Object168 : passr_pass_Object168: 8 ver / 2 face 
+object passr_pass_Object169 : passr_pass_Object169: 8 ver / 2 face 
+object passr_pass_Object170 : passr_pass_Object170: 8 ver / 2 face 
+object passr_pass_Object171 : passr_pass_Object171: 8 ver / 2 face 
+object passr_pass_Object172 : passr_pass_Object172: 8 ver / 2 face 
+object passr_pass_Object173 : passr_pass_Object173: 8 ver / 2 face 
+object passr_pass_Object174 : passr_pass_Object174: 8 ver / 2 face 
+object passr_pass_Object175 : passr_pass_Object175: 8 ver / 2 face 
+object passr_pass_Object176 : passr_pass_Object176: 8 ver / 2 face 
+object passr_pass_Object177 : passr_pass_Object177: 8 ver / 2 face 
+object passr_pass_Object178 : passr_pass_Object178: 8 ver / 2 face 
+object passr_pass_Object179 : passr_pass_Object179: 8 ver / 2 face 
+object passr_pass_Object180 : passr_pass_Object180: 8 ver / 2 face 
+object passr_pass_Object181 : passr_pass_Object181: 8 ver / 2 face 
+object passr_pass_Object182 : passr_pass_Object182: 8 ver / 2 face 
+object passr_pass_Object183 : passr_pass_Object183: 8 ver / 2 face 
+object passr_pass_Object184 : passr_pass_Object184: 8 ver / 2 face 
+object passr_pass_Object185 : passr_pass_Object185: 8 ver / 2 face 
+object passr_pass_Object186 : passr_pass_Object186: 8 ver / 2 face 
+object passr_pass_Object187 : passr_pass_Object187: 8 ver / 2 face 
+object passr_pass_Object188 : passr_pass_Object188: 8 ver / 2 face 
+object passr_pass_Object189 : passr_pass_Object189: 8 ver / 2 face 
+object passr_pass_Object190 : passr_pass_Object190: 8 ver / 2 face 
+object passr_pass_Object191 : passr_pass_Object191: 8 ver / 2 face 
+object passr_pass_Object192 : passr_pass_Object192: 8 ver / 2 face 
+object passr_pass_Object193 : passr_pass_Object193: 8 ver / 2 face 
+object passr_pass_Object194 : passr_pass_Object194: 8 ver / 2 face 
+object passr_pass_Object195 : passr_pass_Object195: 8 ver / 2 face 
+object passr_pass_Object196 : passr_pass_Object196: 8 ver / 2 face 
+object passr_pass_Object197 : passr_pass_Object197: 8 ver / 2 face 
+object passr_pass_Object198 : passr_pass_Object198: 8 ver / 2 face 
+object passr_pass_Object199 : passr_pass_Object199: 8 ver / 2 face 
+object passr_pass_Object200 : passr_pass_Object200: 8 ver / 2 face 
+object passr_pass_Object201 : passr_pass_Object201: 8 ver / 2 face 
+object passr_pass_Object202 : passr_pass_Object202: 8 ver / 2 face 
+object passr_pass_Object203 : passr_pass_Object203: 8 ver / 2 face 
+object passr_pass_Object204 : passr_pass_Object204: 8 ver / 2 face 
+object passr_pass_Object205 : passr_pass_Object205: 8 ver / 2 face 
+object passr_pass_Object206 : passr_pass_Object206: 8 ver / 2 face 
+object passr_pass_Object207 : passr_pass_Object207: 8 ver / 2 face 
+object passr_pass_Object208 : passr_pass_Object208: 8 ver / 2 face 
+object passr_pass_Object209 : passr_pass_Object209: 8 ver / 2 face 
+object passr_pass_Object210 : passr_pass_Object210: 8 ver / 2 face 
+object passr_pass_Object211 : passr_pass_Object211: 8 ver / 2 face 
+object passr_pass_Object212 : passr_pass_Object212: 8 ver / 2 face 
+object passr_pass_Object213 : passr_pass_Object213: 8 ver / 2 face 
+object passr_pass_Object214 : passr_pass_Object214: 8 ver / 2 face 
+object passr_pass_Object215 : passr_pass_Object215: 8 ver / 2 face 
+object passr_pass_Object216 : passr_pass_Object216: 8 ver / 2 face 
+object passr_pass_Object217 : passr_pass_Object217: 8 ver / 2 face 
+object passr_pass_Object218 : passr_pass_Object218: 8 ver / 2 face 
+object passr_pass_Object219 : passr_pass_Object219: 8 ver / 2 face 
+object passr_pass_Object220 : passr_pass_Object220: 8 ver / 2 face 
+object passr_pass_Object221 : passr_pass_Object221: 8 ver / 2 face 
+object passr_pass_Object222 : passr_pass_Object222: 8 ver / 2 face 
+object passr_pass_Object223 : passr_pass_Object223: 8 ver / 2 face 
+object passr_pass_Object224 : passr_pass_Object224: 8 ver / 2 face 
+object passr_pass_Object225 : passr_pass_Object225: 8 ver / 2 face 
+object passr_pass_Object226 : passr_pass_Object226: 8 ver / 2 face 
+object passr_pass_Object227 : passr_pass_Object227: 8 ver / 2 face 
+object passr_pass_Object228 : passr_pass_Object228: 8 ver / 2 face 
+object passr_pass_Object229 : passr_pass_Object229: 8 ver / 2 face 
+object passr_pass_Object230 : passr_pass_Object230: 8 ver / 2 face 
+object passr_pass_Object231 : passr_pass_Object231: 8 ver / 2 face 
+object passr_pass_Object232 : passr_pass_Object232: 8 ver / 2 face 
+object passr_pass_Object233 : passr_pass_Object233: 8 ver / 2 face 
+object passr_pass_Object234 : passr_pass_Object234: 8 ver / 2 face 
+object passr_pass_Object235 : passr_pass_Object235: 8 ver / 2 face 
+object passr_pass_Object236 : passr_pass_Object236: 8 ver / 2 face 
+object passr_pass_Object237 : passr_pass_Object237: 8 ver / 2 face 
+object passr_pass_Object238 : passr_pass_Object238: 8 ver / 2 face 
+object passr_pass_Object239 : passr_pass_Object239: 8 ver / 2 face 
+object passr_pass_Object240 : passr_pass_Object240: 8 ver / 2 face 
+object passr_pass_Object241 : passr_pass_Object241: 8 ver / 2 face 
+object passr_pass_Object242 : passr_pass_Object242: 8 ver / 2 face 
+object passr_pass_Object243 : passr_pass_Object243: 8 ver / 2 face 
+object passr_pass_Object244 : passr_pass_Object244: 8 ver / 2 face 
+object passr_pass_Object245 : passr_pass_Object245: 8 ver / 2 face 
+object passr_pass_Object246 : passr_pass_Object246: 8 ver / 2 face 
+object passr_pass_Object247 : passr_pass_Object247: 8 ver / 2 face 
+object passr_pass_Object248 : passr_pass_Object248: 8 ver / 2 face 
+object passr_pass_Object249 : passr_pass_Object249: 8 ver / 2 face 
+object passr_pass_Object250 : passr_pass_Object250: 8 ver / 2 face 
+object passr_pass_Object251 : passr_pass_Object251: 8 ver / 2 face 
+object passr_pass_Object252 : passr_pass_Object252: 8 ver / 2 face 
+object pass_Object01f : pass_Object01f: 8 ver / 2 face 
+object pass_Object01f01 : pass_Object01f01: 8 ver / 2 face 
+object pass_Object01f02 : pass_Object01f02: 8 ver / 2 face 
+object pass_Object01f03 : pass_Object01f03: 8 ver / 2 face 
+object pass_Object01f10 : pass_Object01f10: 8 ver / 2 face 
+object pass_Object01f11 : pass_Object01f11: 8 ver / 2 face 
+object pass_Object01f12 : pass_Object01f12: 8 ver / 2 face 
+object pass_Object01f13 : pass_Object01f13: 8 ver / 2 face 
+object pass_Object01f14 : pass_Object01f14: 8 ver / 2 face 
+object pass_Object01f16 : pass_Object01f16: 8 ver / 2 face 
+object pass_Object01f17 : pass_Object01f17: 8 ver / 2 face 
+object pass_Object01f20 : pass_Object01f20: 8 ver / 2 face 
+object pass_Object01f21 : pass_Object01f21: 8 ver / 2 face 
+object pass_Object01f22 : pass_Object01f22: 8 ver / 2 face 
+object pass_Object01f23 : pass_Object01f23: 8 ver / 2 face 
+object pass_Object01f24 : pass_Object01f24: 8 ver / 2 face 
+object pass_Object01f26 : pass_Object01f26: 8 ver / 2 face 
+object pass_Object01f27 : pass_Object01f27: 8 ver / 2 face 
+object pass_Object01f30 : pass_Object01f30: 8 ver / 2 face 
+object pass_Object01f31 : pass_Object01f31: 8 ver / 2 face 
+object pass_Object01f32 : pass_Object01f32: 8 ver / 2 face 
+object pass_Object01f33 : pass_Object01f33: 8 ver / 2 face 
+object pass_Object01f34 : pass_Object01f34: 8 ver / 2 face 
+object pass_Object01f35 : pass_Object01f35: 8 ver / 2 face 
+object pass_Object01f36 : pass_Object01f36: 8 ver / 2 face 
+object pass_Object01f37 : pass_Object01f37: 8 ver / 2 face 
+object pass_Object01f38 : pass_Object01f38: 8 ver / 2 face 
+object pass_Object01f39 : pass_Object01f39: 8 ver / 2 face 
+object pass_Object01f40 : pass_Object01f40: 8 ver / 2 face 
+object pass_Object01f41 : pass_Object01f41: 8 ver / 2 face 
+object pass_Object01f42 : pass_Object01f42: 8 ver / 2 face 
+object pass_Object01f43 : pass_Object01f43: 8 ver / 2 face 
+object pass_Object01f44 : pass_Object01f44: 8 ver / 2 face 
+object pass_Object01f45 : pass_Object01f45: 8 ver / 2 face 
+object pass_Object01f46 : pass_Object01f46: 8 ver / 2 face 
+object pass_Object01f47 : pass_Object01f47: 8 ver / 2 face 
+object pass_Object01f48 : pass_Object01f48: 8 ver / 2 face 
+object pass_Object01f49 : pass_Object01f49: 8 ver / 2 face 
+object passr_pass_Object256 : passr_pass_Object256: 8 ver / 2 face 
+object passr_pass_Object257 : passr_pass_Object257: 8 ver / 2 face 
+object passr_pass_Object258 : passr_pass_Object258: 8 ver / 2 face 
+object passr_pass_Object259 : passr_pass_Object259: 8 ver / 2 face 
+object passr_pass_Object260 : passr_pass_Object260: 8 ver / 2 face 
+object passr_pass_Object261 : passr_pass_Object261: 8 ver / 2 face 
+object passr_pass_Object262 : passr_pass_Object262: 8 ver / 2 face 
+object passr_pass_Object263 : passr_pass_Object263: 8 ver / 2 face 
+object passr_pass_Object264 : passr_pass_Object264: 8 ver / 2 face 
+object passr_pass_Object268 : passr_pass_Object268: 8 ver / 2 face 
+object passr_pass_Object269 : passr_pass_Object269: 8 ver / 2 face 
+object passr_pass_Object270 : passr_pass_Object270: 8 ver / 2 face 
+object passr_pass_Object271 : passr_pass_Object271: 8 ver / 2 face 
+object passr_pass_Object272 : passr_pass_Object272: 8 ver / 2 face 
+object passr_pass_Object273 : passr_pass_Object273: 8 ver / 2 face 
+object passr_pass_Object274 : passr_pass_Object274: 8 ver / 2 face 
+object passr_pass_Object275 : passr_pass_Object275: 8 ver / 2 face 
+object passr_pass_Object276 : passr_pass_Object276: 8 ver / 2 face 
+object passr_pass_Object280 : passr_pass_Object280: 8 ver / 2 face 
+object passr_pass_Object281 : passr_pass_Object281: 8 ver / 2 face 
+object passr_pass_Object282 : passr_pass_Object282: 8 ver / 2 face 
+object passr_pass_Object283 : passr_pass_Object283: 8 ver / 2 face 
+object passr_pass_Object284 : passr_pass_Object284: 8 ver / 2 face 
+object passr_pass_Object285 : passr_pass_Object285: 8 ver / 2 face 
+object passr_pass_Object286 : passr_pass_Object286: 8 ver / 2 face 
+object passr_pass_Object287 : passr_pass_Object287: 8 ver / 2 face 
+object passr_pass_Object288 : passr_pass_Object288: 8 ver / 2 face 
+object passr_pass_Object291 : passr_pass_Object291: 8 ver / 2 face 
+object passr_pass_Object292 : passr_pass_Object292: 8 ver / 2 face 
+object passr_pass_Object293 : passr_pass_Object293: 8 ver / 2 face 
+object passr_pass_Object294 : passr_pass_Object294: 8 ver / 2 face 
+object passr_pass_Object295 : passr_pass_Object295: 8 ver / 2 face 
+object passr_pass_Object296 : passr_pass_Object296: 8 ver / 2 face 
+object passr_pass_Object297 : passr_pass_Object297: 8 ver / 2 face 
+object passr_pass_Object298 : passr_pass_Object298: 8 ver / 2 face 
+object passr_pass_Object299 : passr_pass_Object299: 8 ver / 2 face 
+object passr_pass_Object300 : passr_pass_Object300: 8 ver / 2 face 
+object passr_pass_Object304 : passr_pass_Object304: 8 ver / 2 face 
+object passr_pass_Object305 : passr_pass_Object305: 8 ver / 2 face 
+object passr_pass_Object306 : passr_pass_Object306: 8 ver / 2 face 
+object passr_pass_Object307 : passr_pass_Object307: 8 ver / 2 face 
+object passr_pass_Object308 : passr_pass_Object308: 8 ver / 2 face 
+object passr_pass_Object309 : passr_pass_Object309: 8 ver / 2 face 
+object passr_pass_Object310 : passr_pass_Object310: 8 ver / 2 face 
+object passr_pass_Object311 : passr_pass_Object311: 8 ver / 2 face 
+object passr_pass_Object312 : passr_pass_Object312: 8 ver / 2 face 
+object passr_pass_Object315 : passr_pass_Object315: 8 ver / 2 face 
+object passr_pass_Object316 : passr_pass_Object316: 8 ver / 2 face 
+object passr_pass_Object317 : passr_pass_Object317: 8 ver / 2 face 
+object passr_pass_Object318 : passr_pass_Object318: 8 ver / 2 face 
+object passr_pass_Object319 : passr_pass_Object319: 8 ver / 2 face 
+object passr_pass_Object320 : passr_pass_Object320: 8 ver / 2 face 
+object passr_pass_Object321 : passr_pass_Object321: 8 ver / 2 face 
+object passr_pass_Object322 : passr_pass_Object322: 8 ver / 2 face 
+object passr_pass_Object323 : passr_pass_Object323: 8 ver / 2 face 
+object passr_pass_Object324 : passr_pass_Object324: 8 ver / 2 face 
+object passr_pass_Object328 : passr_pass_Object328: 8 ver / 2 face 
+object passr_pass_Object329 : passr_pass_Object329: 8 ver / 2 face 
+object passr_pass_Object330 : passr_pass_Object330: 8 ver / 2 face 
+object passr_pass_Object331 : passr_pass_Object331: 8 ver / 2 face 
+object passr_pass_Object332 : passr_pass_Object332: 8 ver / 2 face 
+object passr_pass_Object333 : passr_pass_Object333: 8 ver / 2 face 
+object passr_pass_Object334 : passr_pass_Object334: 8 ver / 2 face 
+object passr_pass_Object335 : passr_pass_Object335: 8 ver / 2 face 
+object passr_pass_Object336 : passr_pass_Object336: 8 ver / 2 face 
+object passr_pass_Object339 : passr_pass_Object339: 8 ver / 2 face 
+object passr_pass_Object340 : passr_pass_Object340: 8 ver / 2 face 
+object passr_pass_Object341 : passr_pass_Object341: 8 ver / 2 face 
+object passr_pass_Object342 : passr_pass_Object342: 8 ver / 2 face 
+object passr_pass_Object343 : passr_pass_Object343: 8 ver / 2 face 
+object passr_pass_Object344 : passr_pass_Object344: 8 ver / 2 face 
+object passr_pass_Object345 : passr_pass_Object345: 8 ver / 2 face 
+object passr_pass_Object346 : passr_pass_Object346: 8 ver / 2 face 
+object passr_pass_Object347 : passr_pass_Object347: 8 ver / 2 face 
+object passr_pass_Object348 : passr_pass_Object348: 8 ver / 2 face 
+object passr_pass_Object352 : passr_pass_Object352: 8 ver / 2 face 
+object passr_pass_Object353 : passr_pass_Object353: 8 ver / 2 face 
+object passr_pass_Object354 : passr_pass_Object354: 8 ver / 2 face 
+object passr_pass_Object355 : passr_pass_Object355: 8 ver / 2 face 
+object passr_pass_Object356 : passr_pass_Object356: 8 ver / 2 face 
+object passr_pass_Object357 : passr_pass_Object357: 8 ver / 2 face 
+object passr_pass_Object358 : passr_pass_Object358: 8 ver / 2 face 
+object passr_pass_Object359 : passr_pass_Object359: 8 ver / 2 face 
+object passr_pass_Object360 : passr_pass_Object360: 8 ver / 2 face 
+object passr_pass_Object363 : passr_pass_Object363: 8 ver / 2 face 
+object passr_pass_Object364 : passr_pass_Object364: 8 ver / 2 face 
+object passr_pass_Object365 : passr_pass_Object365: 8 ver / 2 face 
+object passr_pass_Object366 : passr_pass_Object366: 8 ver / 2 face 
+object passr_pass_Object367 : passr_pass_Object367: 8 ver / 2 face 
+object passr_pass_Object368 : passr_pass_Object368: 8 ver / 2 face 
+object passr_pass_Object369 : passr_pass_Object369: 8 ver / 2 face 
+object passr_pass_Object370 : passr_pass_Object370: 8 ver / 2 face 
+object passr_pass_Object371 : passr_pass_Object371: 8 ver / 2 face 
+object passr_pass_Object372 : passr_pass_Object372: 8 ver / 2 face 
+object passr_pass_Object376 : passr_pass_Object376: 8 ver / 2 face 
+object passr_pass_Object377 : passr_pass_Object377: 8 ver / 2 face 
+object passr_pass_Object378 : passr_pass_Object378: 8 ver / 2 face 
+object passr_pass_Object379 : passr_pass_Object379: 8 ver / 2 face 
+object passr_pass_Object380 : passr_pass_Object380: 8 ver / 2 face 
+object passr_pass_Object381 : passr_pass_Object381: 8 ver / 2 face 
+object passr_pass_Object382 : passr_pass_Object382: 8 ver / 2 face 
+object passr_pass_Object383 : passr_pass_Object383: 8 ver / 2 face 
+object passr_pass_Object384 : passr_pass_Object384: 8 ver / 2 face 
+object passr_pass_Object387 : passr_pass_Object387: 8 ver / 2 face 
+object passr_pass_Object388 : passr_pass_Object388: 8 ver / 2 face 
+object passr_pass_Object389 : passr_pass_Object389: 8 ver / 2 face 
+object passr_pass_Object390 : passr_pass_Object390: 8 ver / 2 face 
+object passr_pass_Object391 : passr_pass_Object391: 8 ver / 2 face 
+object passr_pass_Object392 : passr_pass_Object392: 8 ver / 2 face 
+object passr_pass_Object393 : passr_pass_Object393: 8 ver / 2 face 
+object passr_pass_Object394 : passr_pass_Object394: 8 ver / 2 face 
+object passr_pass_Object395 : passr_pass_Object395: 8 ver / 2 face 
+object passr_pass_Object396 : passr_pass_Object396: 8 ver / 2 face 
+object passr_pass_Object400 : passr_pass_Object400: 8 ver / 2 face 
+object passr_pass_Object401 : passr_pass_Object401: 8 ver / 2 face 
+object passr_pass_Object402 : passr_pass_Object402: 8 ver / 2 face 
+object passr_pass_Object403 : passr_pass_Object403: 8 ver / 2 face 
+object passr_pass_Object404 : passr_pass_Object404: 8 ver / 2 face 
+object passr_pass_Object405 : passr_pass_Object405: 8 ver / 2 face 
+object passr_pass_Object406 : passr_pass_Object406: 8 ver / 2 face 
+object passr_pass_Object407 : passr_pass_Object407: 8 ver / 2 face 
+object passr_pass_Object408 : passr_pass_Object408: 8 ver / 2 face 
+object passr_pass_Object411 : passr_pass_Object411: 8 ver / 2 face 
+object passr_pass_Object412 : passr_pass_Object412: 8 ver / 2 face 
+object passr_pass_Object413 : passr_pass_Object413: 8 ver / 2 face 
+object passr_pass_Object414 : passr_pass_Object414: 8 ver / 2 face 
+object passr_pass_Object415 : passr_pass_Object415: 8 ver / 2 face 
+object passr_pass_Object416 : passr_pass_Object416: 8 ver / 2 face 
+object passr_pass_Object417 : passr_pass_Object417: 8 ver / 2 face 
+object passr_pass_Object418 : passr_pass_Object418: 8 ver / 2 face 
+object passr_pass_Object419 : passr_pass_Object419: 8 ver / 2 face 
+object passr_pass_Object420 : passr_pass_Object420: 8 ver / 2 face 
+object passr_pass_Object425 : passr_pass_Object425: 8 ver / 2 face 
+object passr_pass_Object426 : passr_pass_Object426: 8 ver / 2 face 
+object passr_pass_Object427 : passr_pass_Object427: 8 ver / 2 face 
+object passr_pass_Object428 : passr_pass_Object428: 8 ver / 2 face 
+object passr_pass_Object429 : passr_pass_Object429: 8 ver / 2 face 
+object passr_pass_Object430 : passr_pass_Object430: 8 ver / 2 face 
+object passr_pass_Object431 : passr_pass_Object431: 8 ver / 2 face 
+object passr_pass_Object432 : passr_pass_Object432: 8 ver / 2 face 
+object passr_pass_Object436 : passr_pass_Object436: 8 ver / 2 face 
+object passr_pass_Object437 : passr_pass_Object437: 8 ver / 2 face 
+object passr_pass_Object438 : passr_pass_Object438: 8 ver / 2 face 
+object passr_pass_Object439 : passr_pass_Object439: 8 ver / 2 face 
+object passr_pass_Object440 : passr_pass_Object440: 8 ver / 2 face 
+object passr_pass_Object441 : passr_pass_Object441: 8 ver / 2 face 
+object passr_pass_Object442 : passr_pass_Object442: 8 ver / 2 face 
+object passr_pass_Object443 : passr_pass_Object443: 8 ver / 2 face 
+object passr_pass_Object444 : passr_pass_Object444: 8 ver / 2 face 
+object passr_pass_Object447 : passr_pass_Object447: 8 ver / 2 face 
+object passr_pass_Object448 : passr_pass_Object448: 8 ver / 2 face 
+object passr_pass_Object449 : passr_pass_Object449: 8 ver / 2 face 
+object passr_pass_Object450 : passr_pass_Object450: 8 ver / 2 face 
+object passr_pass_Object451 : passr_pass_Object451: 8 ver / 2 face 
+object passr_pass_Object452 : passr_pass_Object452: 8 ver / 2 face 
+object passr_pass_Object453 : passr_pass_Object453: 8 ver / 2 face 
+object passr_pass_Object454 : passr_pass_Object454: 8 ver / 2 face 
+object passr_pass_Object455 : passr_pass_Object455: 8 ver / 2 face 
+object passr_pass_Object456 : passr_pass_Object456: 8 ver / 2 face 
+object passr_pass_Object460 : passr_pass_Object460: 8 ver / 2 face 
+object passr_pass_Object461 : passr_pass_Object461: 8 ver / 2 face 
+object passr_pass_Object462 : passr_pass_Object462: 8 ver / 2 face 
+object passr_pass_Object463 : passr_pass_Object463: 8 ver / 2 face 
+object passr_pass_Object464 : passr_pass_Object464: 8 ver / 2 face 
+object passr_pass_Object465 : passr_pass_Object465: 8 ver / 2 face 
+object passr_pass_Object466 : passr_pass_Object466: 8 ver / 2 face 
+object passr_pass_Object467 : passr_pass_Object467: 8 ver / 2 face 
+object passr_pass_Object468 : passr_pass_Object468: 8 ver / 2 face 
+object passr_pass_Object472 : passr_pass_Object472: 8 ver / 2 face 
+object passr_pass_Object473 : passr_pass_Object473: 8 ver / 2 face 
+object passr_pass_Object474 : passr_pass_Object474: 8 ver / 2 face 
+object passr_pass_Object475 : passr_pass_Object475: 8 ver / 2 face 
+object passr_pass_Object476 : passr_pass_Object476: 8 ver / 2 face 
+object passr_pass_Object477 : passr_pass_Object477: 8 ver / 2 face 
+object passr_pass_Object478 : passr_pass_Object478: 8 ver / 2 face 
+object passr_pass_Object479 : passr_pass_Object479: 8 ver / 2 face 
+object passr_pass_Object480 : passr_pass_Object480: 8 ver / 2 face 
+object passr_pass_Object483 : passr_pass_Object483: 8 ver / 2 face 
+object passr_pass_Object484 : passr_pass_Object484: 8 ver / 2 face 
+object passr_pass_Object485 : passr_pass_Object485: 8 ver / 2 face 
+object passr_pass_Object486 : passr_pass_Object486: 8 ver / 2 face 
+object passr_pass_Object487 : passr_pass_Object487: 8 ver / 2 face 
+object passr_pass_Object488 : passr_pass_Object488: 8 ver / 2 face 
+object passr_pass_Object489 : passr_pass_Object489: 8 ver / 2 face 
+object passr_pass_Object490 : passr_pass_Object490: 8 ver / 2 face 
+object passr_pass_Object491 : passr_pass_Object491: 8 ver / 2 face 
+object passr_pass_Object492 : passr_pass_Object492: 8 ver / 2 face 
+object passr_pass_Object496 : passr_pass_Object496: 8 ver / 2 face 
+object passr_pass_Object497 : passr_pass_Object497: 8 ver / 2 face 
+object passr_pass_Object498 : passr_pass_Object498: 8 ver / 2 face 
+object passr_pass_Object499 : passr_pass_Object499: 8 ver / 2 face 
+object passr_pass_Object500 : passr_pass_Object500: 8 ver / 2 face 
+object passr_pass_Object502 : passr_pass_Object502: 8 ver / 2 face 
+object passr_pass_Object503 : passr_pass_Object503: 8 ver / 2 face 
+object passr_pass_Object504 : passr_pass_Object504: 8 ver / 2 face 
+object pass_Object01f145 : pass_Object01f145: 8 ver / 2 face 
+object pass_Object01f144 : pass_Object01f144: 8 ver / 2 face 
+object pass_Object01f143 : pass_Object01f143: 8 ver / 2 face 
+object pass_Object01f142 : pass_Object01f142: 8 ver / 2 face 
+object pass_Object01f141 : pass_Object01f141: 8 ver / 2 face 
+object pass_Object01f140 : pass_Object01f140: 8 ver / 2 face 
+object pass_Object01f139 : pass_Object01f139: 8 ver / 2 face 
+object pass_Object01f138 : pass_Object01f138: 8 ver / 2 face 
+object pass_Object01f137 : pass_Object01f137: 8 ver / 2 face 
+object pass_Object01f136 : pass_Object01f136: 8 ver / 2 face 
+object pass_Object01f135 : pass_Object01f135: 8 ver / 2 face 
+object pass_Object01f134 : pass_Object01f134: 8 ver / 2 face 
+object pass_Object01f133 : pass_Object01f133: 8 ver / 2 face 
+object pass_Object01f132 : pass_Object01f132: 8 ver / 2 face 
+object pass_Object01f131 : pass_Object01f131: 8 ver / 2 face 
+object pass_Object01f130 : pass_Object01f130: 8 ver / 2 face 
+object pass_Object01f129 : pass_Object01f129: 8 ver / 2 face 
+object pass_Object01f128 : pass_Object01f128: 8 ver / 2 face 
+object pass_Object01f127 : pass_Object01f127: 8 ver / 2 face 
+object pass_Object01f126 : pass_Object01f126: 8 ver / 2 face 
+object pass_Object01f125 : pass_Object01f125: 8 ver / 2 face 
+object pass_Object01f124 : pass_Object01f124: 8 ver / 2 face 
+object pass_Object01f123 : pass_Object01f123: 8 ver / 2 face 
+object pass_Object01f122 : pass_Object01f122: 8 ver / 2 face 
+object pass_Object01f121 : pass_Object01f121: 8 ver / 2 face 
+object pass_Object01f120 : pass_Object01f120: 8 ver / 2 face 
+object pass_Object01f119 : pass_Object01f119: 8 ver / 2 face 
+object pass_Object01f118 : pass_Object01f118: 8 ver / 2 face 
+object pass_Object01f117 : pass_Object01f117: 8 ver / 2 face 
+object pass_Object01f116 : pass_Object01f116: 8 ver / 2 face 
+object pass_Object01f115 : pass_Object01f115: 8 ver / 2 face 
+object pass_Object01f114 : pass_Object01f114: 8 ver / 2 face 
+object pass_Object01f113 : pass_Object01f113: 8 ver / 2 face 
+object pass_Object01f112 : pass_Object01f112: 8 ver / 2 face 
+object pass_Object01f111 : pass_Object01f111: 8 ver / 2 face 
+object pass_Object01f110 : pass_Object01f110: 8 ver / 2 face 
+object pass_Object01f109 : pass_Object01f109: 8 ver / 2 face 
+object pass_Object01f108 : pass_Object01f108: 8 ver / 2 face 
+object pass_Object01f107 : pass_Object01f107: 8 ver / 2 face 
+object pass_Object01f106 : pass_Object01f106: 8 ver / 2 face 
+object pass_Object01f105 : pass_Object01f105: 8 ver / 2 face 
+object pass_Object01f104 : pass_Object01f104: 8 ver / 2 face 
+object pass_Object01f103 : pass_Object01f103: 8 ver / 2 face 
+object pass_Object01f102 : pass_Object01f102: 8 ver / 2 face 
+object pass_Object01f101 : pass_Object01f101: 8 ver / 2 face 
+object pass_Object01f100 : pass_Object01f100: 8 ver / 2 face 
+object pass_Object01f99 : pass_Object01f99: 8 ver / 2 face 
+object pass_Object01f98 : pass_Object01f98: 8 ver / 2 face 
+object pass_Object01f50 : pass_Object01f50: 8 ver / 2 face 
+object pass_Object01f51 : pass_Object01f51: 8 ver / 2 face 
+object pass_Object01f52 : pass_Object01f52: 8 ver / 2 face 
+object pass_Object01f53 : pass_Object01f53: 8 ver / 2 face 
+object pass_Object01f54 : pass_Object01f54: 8 ver / 2 face 
+object pass_Object01f55 : pass_Object01f55: 8 ver / 2 face 
+object pass_Object01f56 : pass_Object01f56: 8 ver / 2 face 
+object pass_Object01f57 : pass_Object01f57: 8 ver / 2 face 
+object pass_Object01f58 : pass_Object01f58: 8 ver / 2 face 
+object pass_Object01f59 : pass_Object01f59: 8 ver / 2 face 
+object pass_Object01f60 : pass_Object01f60: 8 ver / 2 face 
+object pass_Object01f61 : pass_Object01f61: 8 ver / 2 face 
+object pass_Object01f62 : pass_Object01f62: 8 ver / 2 face 
+object pass_Object01f63 : pass_Object01f63: 8 ver / 2 face 
+object pass_Object01f64 : pass_Object01f64: 8 ver / 2 face 
+object pass_Object01f65 : pass_Object01f65: 8 ver / 2 face 
+object pass_Object01f66 : pass_Object01f66: 8 ver / 2 face 
+object pass_Object01f67 : pass_Object01f67: 8 ver / 2 face 
+object pass_Object01f68 : pass_Object01f68: 8 ver / 2 face 
+object pass_Object01f69 : pass_Object01f69: 8 ver / 2 face 
+object pass_Object01f70 : pass_Object01f70: 8 ver / 2 face 
+object pass_Object01f71 : pass_Object01f71: 8 ver / 2 face 
+object pass_Object01f72 : pass_Object01f72: 8 ver / 2 face 
+object pass_Object01f73 : pass_Object01f73: 8 ver / 2 face 
+object pass_Object01f74 : pass_Object01f74: 8 ver / 2 face 
+object pass_Object01f75 : pass_Object01f75: 8 ver / 2 face 
+object pass_Object01f76 : pass_Object01f76: 8 ver / 2 face 
+object pass_Object01f77 : pass_Object01f77: 8 ver / 2 face 
+object pass_Object01f78 : pass_Object01f78: 8 ver / 2 face 
+object pass_Object01f79 : pass_Object01f79: 8 ver / 2 face 
+object pass_Object01f80 : pass_Object01f80: 8 ver / 2 face 
+object pass_Object01f81 : pass_Object01f81: 8 ver / 2 face 
+object pass_Object01f82 : pass_Object01f82: 8 ver / 2 face 
+object pass_Object01f83 : pass_Object01f83: 8 ver / 2 face 
+object pass_Object01f84 : pass_Object01f84: 8 ver / 2 face 
+object pass_Object01f85 : pass_Object01f85: 8 ver / 2 face 
+object pass_Object01f86 : pass_Object01f86: 8 ver / 2 face 
+object pass_Object01f87 : pass_Object01f87: 8 ver / 2 face 
+object pass_Object01f88 : pass_Object01f88: 8 ver / 2 face 
+object pass_Object01f89 : pass_Object01f89: 8 ver / 2 face 
+object pass_Object01f90 : pass_Object01f90: 8 ver / 2 face 
+object pass_Object01f91 : pass_Object01f91: 8 ver / 2 face 
+object pass_Object01f92 : pass_Object01f92: 8 ver / 2 face 
+object pass_Object01f93 : pass_Object01f93: 8 ver / 2 face 
+object pass_Object01f94 : pass_Object01f94: 8 ver / 2 face 
+object pass_Object01f95 : pass_Object01f95: 8 ver / 2 face 
+object pass_Object01f96 : pass_Object01f96: 8 ver / 2 face 
+object pass_Object01f97 : pass_Object01f97: 8 ver / 2 face 
+object pass_Object01 : pass_Object01: 8 ver / 2 face 
+object pass_Object65 : pass_Object65: 8 ver / 2 face 
+object pass_Object66 : pass_Object66: 8 ver / 2 face 
+object pass_Object67 : pass_Object67: 8 ver / 2 face 
+object pass_Object68 : pass_Object68: 8 ver / 2 face 
+object pass_Object69 : pass_Object69: 8 ver / 2 face 
+object pass_Object70 : pass_Object70: 8 ver / 2 face 
+object pass_Object71 : pass_Object71: 8 ver / 2 face 
+object pass_Object72 : pass_Object72: 8 ver / 2 face 
+object pass_Object81 : pass_Object81: 8 ver / 2 face 
+object pass_Object80 : pass_Object80: 8 ver / 2 face 
+object pass_Object79 : pass_Object79: 8 ver / 2 face 
+object pass_Object78 : pass_Object78: 8 ver / 2 face 
+object pass_Object77 : pass_Object77: 8 ver / 2 face 
+object pass_Object76 : pass_Object76: 8 ver / 2 face 
+object pass_Object75 : pass_Object75: 8 ver / 2 face 
+object pass_Object74 : pass_Object74: 8 ver / 2 face 
+object pass_Object73 : pass_Object73: 8 ver / 2 face 
+object pass_Object82 : pass_Object82: 8 ver / 2 face 
+object pass_Object83 : pass_Object83: 8 ver / 2 face 
+object pass_Object84 : pass_Object84: 8 ver / 2 face 
+object pass_Object85 : pass_Object85: 8 ver / 2 face 
+object pass_Object86 : pass_Object86: 8 ver / 2 face 
+object pass_Object87 : pass_Object87: 8 ver / 2 face 
+object pass_Object88 : pass_Object88: 8 ver / 2 face 
+object pass_Object89 : pass_Object89: 8 ver / 2 face 
+object pass_Object90 : pass_Object90: 8 ver / 2 face 
+object DrawCall_0168 : DrawCall_0168: 41 ver / 32 face 
+object DrawCall_0167 : DrawCall_0167: 41 ver / 32 face 
+object DrawCall_0335 : DrawCall_0335: 252 ver / 62 face 
+object DrawCall_490 : DrawCall_490: 45 ver / 12 face 
+object Object92 : Object92: 9 ver / 8 face 
+object Object93 : Object93: 9 ver / 8 face 
+object Object94 : Object94: 30 ver / 8 face 
+object DrawCall_491 : DrawCall_491: 74 ver / 21 face 
+object Object95 : Object95: 27 ver / 7 face 
+object Object96 : Object96: 30 ver / 8 face 
+object Object97 : Object97: 30 ver / 8 face 
+object Object98 : Object98: 30 ver / 8 face 
+object Object99 : Object99: 30 ver / 8 face 
+object DrawCall_492 : DrawCall_492: 74 ver / 21 face 
+object Object100 : Object100: 27 ver / 7 face 
+object Object101 : Object101: 30 ver / 8 face 
+object Object102 : Object102: 30 ver / 8 face 
+object Object103 : Object103: 30 ver / 8 face 
+object Object104 : Object104: 30 ver / 8 face 
+object DrawCall_493 : DrawCall_493: 59 ver / 17 face 
+object Object105 : Object105: 27 ver / 7 face 
+object Object106 : Object106: 30 ver / 8 face 
+object Object109 : Object109: 30 ver / 8 face 
+object DrawCall_494 : DrawCall_494: 56 ver / 16 face 
+object Object112 : Object112: 30 ver / 8 face 
+object Object114 : Object114: 30 ver / 8 face 
+object DrawCall_495 : DrawCall_495: 59 ver / 17 face 
+object Object115 : Object115: 27 ver / 7 face 
+object Object116 : Object116: 30 ver / 8 face 
+object Object119 : Object119: 30 ver / 8 face 
+object DrawCall_485 : DrawCall_485: 18 ver / 12 face 
+object Object67 : Object67: 9 ver / 8 face 
+object Object68 : Object68: 9 ver / 8 face 
+object Object69 : Object69: 9 ver / 8 face 
+object DrawCall_486 : DrawCall_486: 39 ver / 16 face 
+object Object72 : Object72: 9 ver / 8 face 
+object Object73 : Object73: 9 ver / 8 face 
+object Object74 : Object74: 9 ver / 8 face 
+object DrawCall_487 : DrawCall_487: 56 ver / 16 face 
+object Object77 : Object77: 30 ver / 8 face 
+object Object78 : Object78: 30 ver / 8 face 
+object Object79 : Object79: 30 ver / 8 face 
+object DrawCall_488 : DrawCall_488: 74 ver / 21 face 
+object Object80 : Object80: 27 ver / 7 face 
+object Object81 : Object81: 30 ver / 8 face 
+object Object82 : Object82: 30 ver / 8 face 
+object Object83 : Object83: 30 ver / 8 face 
+object Object84 : Object84: 30 ver / 8 face 
+object DrawCall_489 : DrawCall_489: 56 ver / 16 face 
+object Object87 : Object87: 30 ver / 8 face 
+object Object88 : Object88: 30 ver / 8 face 
+object Object89 : Object89: 30 ver / 8 face 
+object Object150 : Object150: 30 ver / 8 face 
+object Object152 : Object152: 30 ver / 8 face 
+object Object153 : Object153: 27 ver / 7 face 
+object DrawCall_502 : DrawCall_502: 74 ver / 21 face 
+object Object154 : Object154: 30 ver / 8 face 
+object pass_Object01f146 : pass_Object01f146: 8 ver / 2 face 
+object Object155 : Object155: 30 ver / 8 face 
+object Object156 : Object156: 30 ver / 8 face 
+object Object157 : Object157: 30 ver / 8 face 
+object Object158 : Object158: 27 ver / 7 face 
+object DrawCall_503 : DrawCall_503: 74 ver / 21 face 
+object Object159 : Object159: 30 ver / 8 face 
+object DrawCall_496 : DrawCall_496: 74 ver / 21 face 
+object Object120 : Object120: 27 ver / 7 face 
+object Object121 : Object121: 30 ver / 8 face 
+object Object122 : Object122: 30 ver / 8 face 
+object Object123 : Object123: 30 ver / 8 face 
+object Object124 : Object124: 30 ver / 8 face 
+object DrawCall_498 : DrawCall_498: 74 ver / 21 face 
+object Object130 : Object130: 27 ver / 7 face 
+object Object131 : Object131: 30 ver / 8 face 
+object Object132 : Object132: 30 ver / 8 face 
+object Object133 : Object133: 30 ver / 8 face 
+object Object134 : Object134: 30 ver / 8 face 
+object DrawCall_499 : DrawCall_499: 56 ver / 16 face 
+object Object137 : Object137: 30 ver / 8 face 
+object Object138 : Object138: 30 ver / 8 face 
+object Object139 : Object139: 30 ver / 8 face 
+object DrawCall_500 : DrawCall_500: 56 ver / 16 face 
+object Object142 : Object142: 30 ver / 8 face 
+object Object143 : Object143: 30 ver / 8 face 
+object Object144 : Object144: 30 ver / 8 face 
+object DrawCall_501 : DrawCall_501: 74 ver / 21 face 
+object Object145 : Object145: 27 ver / 7 face 
+object Object146 : Object146: 30 ver / 8 face 
+object Object147 : Object147: 30 ver / 8 face 
+object Object148 : Object148: 30 ver / 8 face 
+object Object149 : Object149: 30 ver / 8 face 
+object passr_pass_Object505 : passr_pass_Object505: 8 ver / 2 face 
+object passr_pass_Object506 : passr_pass_Object506: 8 ver / 2 face 
+object passr_pass_Object507 : passr_pass_Object507: 8 ver / 2 face 
+object passr_pass_Object508 : passr_pass_Object508: 8 ver / 2 face 
+object passr_pass_Object509 : passr_pass_Object509: 8 ver / 2 face 
+object passr_pass_Object510 : passr_pass_Object510: 8 ver / 2 face 
+object passr_pass_Object511 : passr_pass_Object511: 8 ver / 2 face 
+object passr_pass_Object512 : passr_pass_Object512: 8 ver / 2 face 
+object passr_pass_Object513 : passr_pass_Object513: 8 ver / 2 face 
+object passr_pass_Object514 : passr_pass_Object514: 8 ver / 2 face 
+object passr_pass_Object515 : passr_pass_Object515: 8 ver / 2 face 
+object passr_pass_Object516 : passr_pass_Object516: 8 ver / 2 face 
+object passr_pass_Object517 : passr_pass_Object517: 8 ver / 2 face 
+object passr_pass_Object518 : passr_pass_Object518: 8 ver / 2 face 
+object passr_pass_Object519 : passr_pass_Object519: 8 ver / 2 face 
+object passr_pass_Object520 : passr_pass_Object520: 8 ver / 2 face 
+object passr_pass_Object521 : passr_pass_Object521: 8 ver / 2 face 
+object passr_pass_Object522 : passr_pass_Object522: 8 ver / 2 face 
+object passr_pass_Object523 : passr_pass_Object523: 8 ver / 2 face 
+object passr_pass_Object524 : passr_pass_Object524: 8 ver / 2 face 
+object passr_pass_Object525 : passr_pass_Object525: 8 ver / 2 face 
+object passr_pass_Object526 : passr_pass_Object526: 8 ver / 2 face 
+object passr_pass_Object527 : passr_pass_Object527: 8 ver / 2 face 
+object passr_pass_Object528 : passr_pass_Object528: 8 ver / 2 face 
+object passr_pass_Object529 : passr_pass_Object529: 8 ver / 2 face 
+object passr_pass_Object530 : passr_pass_Object530: 8 ver / 2 face 
+object passr_pass_Object531 : passr_pass_Object531: 8 ver / 2 face 
+object passr_pass_Object532 : passr_pass_Object532: 8 ver / 2 face 
+object passr_pass_Object533 : passr_pass_Object533: 8 ver / 2 face 
+object passr_pass_Object534 : passr_pass_Object534: 8 ver / 2 face 
+object passr_pass_Object535 : passr_pass_Object535: 8 ver / 2 face 
+object passr_pass_Object536 : passr_pass_Object536: 8 ver / 2 face 
+object passr_pass_Object537 : passr_pass_Object537: 8 ver / 2 face 
+object passr_pass_Object538 : passr_pass_Object538: 8 ver / 2 face 
+object passr_pass_Object539 : passr_pass_Object539: 8 ver / 2 face 
+object passr_pass_Object540 : passr_pass_Object540: 8 ver / 2 face 
+object passr_pass_Object541 : passr_pass_Object541: 8 ver / 2 face 
+object passr_pass_Object542 : passr_pass_Object542: 8 ver / 2 face 
+object passr_pass_Object543 : passr_pass_Object543: 8 ver / 2 face 
+object passr_pass_Object544 : passr_pass_Object544: 8 ver / 2 face 
+object passr_pass_Object545 : passr_pass_Object545: 8 ver / 2 face 
+object passr_pass_Object546 : passr_pass_Object546: 8 ver / 2 face 
+object passr_pass_Object547 : passr_pass_Object547: 8 ver / 2 face 
+object passr_pass_Object548 : passr_pass_Object548: 8 ver / 2 face 
+object passr_pass_Object549 : passr_pass_Object549: 8 ver / 2 face 
+object passr_pass_Object550 : passr_pass_Object550: 8 ver / 2 face 
+object passr_pass_Object551 : passr_pass_Object551: 8 ver / 2 face 
+object passr_pass_Object552 : passr_pass_Object552: 8 ver / 2 face 
+object passr_pass_Object553 : passr_pass_Object553: 8 ver / 2 face 
+object passr_pass_Object554 : passr_pass_Object554: 8 ver / 2 face 
+object passr_pass_Object555 : passr_pass_Object555: 8 ver / 2 face 
+object passr_pass_Object556 : passr_pass_Object556: 8 ver / 2 face 
+object passr_pass_Object557 : passr_pass_Object557: 8 ver / 2 face 
+object passr_pass_Object558 : passr_pass_Object558: 8 ver / 2 face 
+object passr_pass_Object559 : passr_pass_Object559: 8 ver / 2 face 
+object passr_pass_Object560 : passr_pass_Object560: 8 ver / 2 face 
+object passr_pass_Object561 : passr_pass_Object561: 8 ver / 2 face 
+object passr_pass_Object562 : passr_pass_Object562: 8 ver / 2 face 
+object passr_pass_Object563 : passr_pass_Object563: 8 ver / 2 face 
+object passr_pass_Object564 : passr_pass_Object564: 8 ver / 2 face 
+object passr_pass_Object565 : passr_pass_Object565: 8 ver / 2 face 
+object passr_pass_Object566 : passr_pass_Object566: 8 ver / 2 face 
+object passr_pass_Object567 : passr_pass_Object567: 8 ver / 2 face 
+object passr_pass_Object568 : passr_pass_Object568: 8 ver / 2 face 
+object passr_pass_Object569 : passr_pass_Object569: 8 ver / 2 face 
+object passr_pass_Object570 : passr_pass_Object570: 8 ver / 2 face 
+object passr_pass_Object571 : passr_pass_Object571: 8 ver / 2 face 
+object passr_pass_Object572 : passr_pass_Object572: 8 ver / 2 face 
+object passr_pass_Object573 : passr_pass_Object573: 8 ver / 2 face 
+object passr_pass_Object574 : passr_pass_Object574: 8 ver / 2 face 
+object passr_pass_Object575 : passr_pass_Object575: 8 ver / 2 face 
+object passr_pass_Object576 : passr_pass_Object576: 8 ver / 2 face 
+object passr_pass_Object577 : passr_pass_Object577: 8 ver / 2 face 
+object passr_pass_Object578 : passr_pass_Object578: 8 ver / 2 face 
+object passr_pass_Object579 : passr_pass_Object579: 8 ver / 2 face 
+object passr_pass_Object580 : passr_pass_Object580: 8 ver / 2 face 
+object passr_pass_Object581 : passr_pass_Object581: 8 ver / 2 face 
+object passr_pass_Object582 : passr_pass_Object582: 8 ver / 2 face 
+object passr_pass_Object583 : passr_pass_Object583: 8 ver / 2 face 
+object passr_pass_Object584 : passr_pass_Object584: 8 ver / 2 face 
+object passr_pass_Object585 : passr_pass_Object585: 8 ver / 2 face 
+object passr_pass_Object586 : passr_pass_Object586: 8 ver / 2 face 
+object passr_pass_Object587 : passr_pass_Object587: 8 ver / 2 face 
+object passr_pass_Object588 : passr_pass_Object588: 8 ver / 2 face 
+object passr_pass_Object589 : passr_pass_Object589: 8 ver / 2 face 
+object passr_pass_Object590 : passr_pass_Object590: 8 ver / 2 face 
+object passr_pass_Object591 : passr_pass_Object591: 8 ver / 2 face 
+object passr_pass_Object592 : passr_pass_Object592: 8 ver / 2 face 
+object passr_pass_Object593 : passr_pass_Object593: 8 ver / 2 face 
+object passr_pass_Object594 : passr_pass_Object594: 8 ver / 2 face 
+object passr_pass_Object595 : passr_pass_Object595: 8 ver / 2 face 
+object passr_pass_Object596 : passr_pass_Object596: 8 ver / 2 face 
+object passr_pass_Object597 : passr_pass_Object597: 8 ver / 2 face 
+object passr_pass_Object598 : passr_pass_Object598: 8 ver / 2 face 
+object passr_pass_Object599 : passr_pass_Object599: 8 ver / 2 face 
+object passr_pass_Object600 : passr_pass_Object600: 8 ver / 2 face 
+object passr_pass_Object601 : passr_pass_Object601: 8 ver / 2 face 
+object passr_pass_Object602 : passr_pass_Object602: 8 ver / 2 face 
+object passr_pass_Object603 : passr_pass_Object603: 8 ver / 2 face 
+object passr_pass_Object604 : passr_pass_Object604: 8 ver / 2 face 
+object passr_pass_Object605 : passr_pass_Object605: 8 ver / 2 face 
+object passr_pass_Object606 : passr_pass_Object606: 8 ver / 2 face 
+object passr_pass_Object607 : passr_pass_Object607: 8 ver / 2 face 
+object passr_pass_Object608 : passr_pass_Object608: 8 ver / 2 face 
+object passr_pass_Object609 : passr_pass_Object609: 8 ver / 2 face 
+object passr_pass_Object610 : passr_pass_Object610: 8 ver / 2 face 
+object passr_pass_Object611 : passr_pass_Object611: 8 ver / 2 face 
+object passr_pass_Object612 : passr_pass_Object612: 8 ver / 2 face 
+object passr_pass_Object613 : passr_pass_Object613: 8 ver / 2 face 
+object passr_pass_Object614 : passr_pass_Object614: 8 ver / 2 face 
+object passr_pass_Object615 : passr_pass_Object615: 8 ver / 2 face 
+object passr_pass_Object616 : passr_pass_Object616: 8 ver / 2 face 
+object passr_pass_Object617 : passr_pass_Object617: 8 ver / 2 face 
+object passr_pass_Object618 : passr_pass_Object618: 8 ver / 2 face 
+object passr_pass_Object619 : passr_pass_Object619: 8 ver / 2 face 
+object passr_pass_Object620 : passr_pass_Object620: 8 ver / 2 face 
+object passr_pass_Object621 : passr_pass_Object621: 8 ver / 2 face 
+object passr_pass_Object622 : passr_pass_Object622: 8 ver / 2 face 
+object passr_pass_Object623 : passr_pass_Object623: 8 ver / 2 face 
+object passr_pass_Object624 : passr_pass_Object624: 8 ver / 2 face 
+object passr_pass_Object625 : passr_pass_Object625: 8 ver / 2 face 
+object passr_pass_Object626 : passr_pass_Object626: 8 ver / 2 face 
+object passr_pass_Object627 : passr_pass_Object627: 8 ver / 2 face 
+object passr_pass_Object628 : passr_pass_Object628: 8 ver / 2 face 
+object passr_pass_Object629 : passr_pass_Object629: 8 ver / 2 face 
+object passr_pass_Object630 : passr_pass_Object630: 8 ver / 2 face 
+object passr_pass_Object631 : passr_pass_Object631: 8 ver / 2 face 
+object passr_pass_Object632 : passr_pass_Object632: 8 ver / 2 face 
+object passr_pass_Object633 : passr_pass_Object633: 8 ver / 2 face 
+object passr_pass_Object634 : passr_pass_Object634: 8 ver / 2 face 
+object passr_pass_Object635 : passr_pass_Object635: 8 ver / 2 face 
+object passr_pass_Object636 : passr_pass_Object636: 8 ver / 2 face 
+object passr_pass_Object637 : passr_pass_Object637: 8 ver / 2 face 
+object passr_pass_Object638 : passr_pass_Object638: 8 ver / 2 face 
+object passr_pass_Object639 : passr_pass_Object639: 8 ver / 2 face 
+object passr_pass_Object640 : passr_pass_Object640: 8 ver / 2 face 
+object passr_pass_Object641 : passr_pass_Object641: 8 ver / 2 face 
+object passr_pass_Object642 : passr_pass_Object642: 8 ver / 2 face 
+object passr_pass_Object643 : passr_pass_Object643: 8 ver / 2 face 
+object passr_pass_Object644 : passr_pass_Object644: 8 ver / 2 face 
+object passr_pass_Object645 : passr_pass_Object645: 8 ver / 2 face 
+object passr_pass_Object646 : passr_pass_Object646: 8 ver / 2 face 
+object passr_pass_Object647 : passr_pass_Object647: 8 ver / 2 face 
+object passr_pass_Object648 : passr_pass_Object648: 8 ver / 2 face 
+object passr_pass_Object649 : passr_pass_Object649: 8 ver / 2 face 
+object passr_pass_Object650 : passr_pass_Object650: 8 ver / 2 face 
+object passr_pass_Object651 : passr_pass_Object651: 8 ver / 2 face 
+object passr_pass_Object652 : passr_pass_Object652: 8 ver / 2 face 
+object passr_pass_Object653 : passr_pass_Object653: 8 ver / 2 face 
+object passr_pass_Object654 : passr_pass_Object654: 8 ver / 2 face 
+object passr_pass_Object655 : passr_pass_Object655: 8 ver / 2 face 
+object passr_pass_Object656 : passr_pass_Object656: 8 ver / 2 face 
+object passr_pass_Object657 : passr_pass_Object657: 8 ver / 2 face 
+object passr_pass_Object658 : passr_pass_Object658: 8 ver / 2 face 
+object passr_pass_Object659 : passr_pass_Object659: 8 ver / 2 face 
+object passr_pass_Object660 : passr_pass_Object660: 8 ver / 2 face 
+object passr_pass_Object661 : passr_pass_Object661: 8 ver / 2 face 
+object passr_pass_Object662 : passr_pass_Object662: 8 ver / 2 face 
+object passr_pass_Object663 : passr_pass_Object663: 8 ver / 2 face 
+object passr_pass_Object664 : passr_pass_Object664: 8 ver / 2 face 
+object passr_pass_Object665 : passr_pass_Object665: 8 ver / 2 face 
+object passr_pass_Object666 : passr_pass_Object666: 8 ver / 2 face 
+object passr_pass_Object667 : passr_pass_Object667: 8 ver / 2 face 
+object passr_pass_Object668 : passr_pass_Object668: 8 ver / 2 face 
+object passr_pass_Object669 : passr_pass_Object669: 8 ver / 2 face 
+object passr_pass_Object670 : passr_pass_Object670: 8 ver / 2 face 
+object passr_pass_Object671 : passr_pass_Object671: 8 ver / 2 face 
+object passr_pass_Object672 : passr_pass_Object672: 8 ver / 2 face 
+object passr_pass_Object673 : passr_pass_Object673: 8 ver / 2 face 
+object passr_pass_Object674 : passr_pass_Object674: 8 ver / 2 face 
+object passr_pass_Object675 : passr_pass_Object675: 8 ver / 2 face 
+object passr_pass_Object676 : passr_pass_Object676: 8 ver / 2 face 
+object passr_pass_Object677 : passr_pass_Object677: 8 ver / 2 face 
+object passr_pass_Object678 : passr_pass_Object678: 8 ver / 2 face 
+object passr_pass_Object679 : passr_pass_Object679: 8 ver / 2 face 
+object passr_pass_Object680 : passr_pass_Object680: 8 ver / 2 face 
+object passr_pass_Object681 : passr_pass_Object681: 8 ver / 2 face 
+object passr_pass_Object682 : passr_pass_Object682: 8 ver / 2 face 
+object passr_pass_Object683 : passr_pass_Object683: 8 ver / 2 face 
+object passr_pass_Object684 : passr_pass_Object684: 8 ver / 2 face 
+object passr_pass_Object685 : passr_pass_Object685: 8 ver / 2 face 
+object passr_pass_Object686 : passr_pass_Object686: 8 ver / 2 face 
+object passr_pass_Object687 : passr_pass_Object687: 8 ver / 2 face 
+object passr_pass_Object688 : passr_pass_Object688: 8 ver / 2 face 
+object passr_pass_Object689 : passr_pass_Object689: 8 ver / 2 face 
+object passr_pass_Object690 : passr_pass_Object690: 8 ver / 2 face 
+object passr_pass_Object691 : passr_pass_Object691: 8 ver / 2 face 
+object passr_pass_Object692 : passr_pass_Object692: 8 ver / 2 face 
+object passr_pass_Object693 : passr_pass_Object693: 8 ver / 2 face 
+object passr_pass_Object694 : passr_pass_Object694: 8 ver / 2 face 
+object passr_pass_Object695 : passr_pass_Object695: 8 ver / 2 face 
+object passr_pass_Object696 : passr_pass_Object696: 8 ver / 2 face 
+object passr_pass_Object697 : passr_pass_Object697: 8 ver / 2 face 
+object passr_pass_Object698 : passr_pass_Object698: 8 ver / 2 face 
+object passr_pass_Object699 : passr_pass_Object699: 8 ver / 2 face 
+object passr_pass_Object700 : passr_pass_Object700: 8 ver / 2 face 
+object passr_pass_Object701 : passr_pass_Object701: 8 ver / 2 face 
+object passr_pass_Object702 : passr_pass_Object702: 8 ver / 2 face 
+object passr_pass_Object703 : passr_pass_Object703: 8 ver / 2 face 
+object passr_pass_Object704 : passr_pass_Object704: 8 ver / 2 face 
+object passr_pass_Object705 : passr_pass_Object705: 8 ver / 2 face 
+object passr_pass_Object706 : passr_pass_Object706: 8 ver / 2 face 
+object passr_pass_Object707 : passr_pass_Object707: 8 ver / 2 face 
+object passr_pass_Object708 : passr_pass_Object708: 8 ver / 2 face 
+object passr_pass_Object709 : passr_pass_Object709: 8 ver / 2 face 
+object passr_pass_Object710 : passr_pass_Object710: 8 ver / 2 face 
+object passr_pass_Object711 : passr_pass_Object711: 8 ver / 2 face 
+object passr_pass_Object712 : passr_pass_Object712: 8 ver / 2 face 
+object passr_pass_Object713 : passr_pass_Object713: 8 ver / 2 face 
+object passr_pass_Object714 : passr_pass_Object714: 8 ver / 2 face 
+object passr_pass_Object715 : passr_pass_Object715: 8 ver / 2 face 
+object passr_pass_Object716 : passr_pass_Object716: 8 ver / 2 face 
+object passr_pass_Object717 : passr_pass_Object717: 8 ver / 2 face 
+object passr_pass_Object718 : passr_pass_Object718: 8 ver / 2 face 
+object passr_pass_Object719 : passr_pass_Object719: 8 ver / 2 face 
+object passr_pass_Object720 : passr_pass_Object720: 8 ver / 2 face 
+object passr_pass_Object721 : passr_pass_Object721: 8 ver / 2 face 
+object passr_pass_Object722 : passr_pass_Object722: 8 ver / 2 face 
+object passr_pass_Object723 : passr_pass_Object723: 8 ver / 2 face 
+object passr_pass_Object724 : passr_pass_Object724: 8 ver / 2 face 
+object passr_pass_Object725 : passr_pass_Object725: 8 ver / 2 face 
+object passr_pass_Object726 : passr_pass_Object726: 8 ver / 2 face 
+object passr_pass_Object727 : passr_pass_Object727: 8 ver / 2 face 
+object passr_pass_Object728 : passr_pass_Object728: 8 ver / 2 face 
+object passr_pass_Object729 : passr_pass_Object729: 8 ver / 2 face 
+object passr_pass_Object730 : passr_pass_Object730: 8 ver / 2 face 
+object passr_pass_Object731 : passr_pass_Object731: 8 ver / 2 face 
+object passr_pass_Object732 : passr_pass_Object732: 8 ver / 2 face 
+object passr_pass_Object733 : passr_pass_Object733: 8 ver / 2 face 
+object passr_pass_Object734 : passr_pass_Object734: 8 ver / 2 face 
+object passr_pass_Object735 : passr_pass_Object735: 8 ver / 2 face 
+object passr_pass_Object736 : passr_pass_Object736: 8 ver / 2 face 
+object passr_pass_Object737 : passr_pass_Object737: 8 ver / 2 face 
+object passr_pass_Object738 : passr_pass_Object738: 8 ver / 2 face 
+object passr_pass_Object739 : passr_pass_Object739: 8 ver / 2 face 
+object passr_pass_Object740 : passr_pass_Object740: 8 ver / 2 face 
+object passr_pass_Object741 : passr_pass_Object741: 8 ver / 2 face 
+object passr_pass_Object742 : passr_pass_Object742: 8 ver / 2 face 
+object passr_pass_Object743 : passr_pass_Object743: 8 ver / 2 face 
+object passr_pass_Object744 : passr_pass_Object744: 8 ver / 2 face 
+object passr_pass_Object745 : passr_pass_Object745: 8 ver / 2 face 
+object passr_pass_Object746 : passr_pass_Object746: 8 ver / 2 face 
+object passr_pass_Object747 : passr_pass_Object747: 8 ver / 2 face 
+object passr_pass_Object748 : passr_pass_Object748: 8 ver / 2 face 
+object passr_pass_Object749 : passr_pass_Object749: 8 ver / 2 face 
+object passr_pass_Object750 : passr_pass_Object750: 8 ver / 2 face 
+object passr_pass_Object751 : passr_pass_Object751: 8 ver / 2 face 
+object passr_pass_Object752 : passr_pass_Object752: 8 ver / 2 face 
+object passr_pass_Object753 : passr_pass_Object753: 8 ver / 2 face 
+object passr_pass_Object754 : passr_pass_Object754: 8 ver / 2 face 
+object passr_pass_Object755 : passr_pass_Object755: 8 ver / 2 face 
+object passr_pass_Object756 : passr_pass_Object756: 8 ver / 2 face 
+object DrawCall_0212 : DrawCall_0212: 70 ver / 57 face 
+object pass_DrawCall_0356 : pass_DrawCall_0356: 210 ver / 168 face 
+object DrawCall_505 : DrawCall_505: 70 ver / 72 face 
+object DrawCall_506 : DrawCall_506: 70 ver / 72 face 
+object rr11 : rr11: 223 ver / 170 face 
+object rr16 : rr16: 223 ver / 170 face 
+object rr17 : rr17: 223 ver / 170 face 
+object rr18 : rr18: 223 ver / 170 face 
+object rr19 : rr19: 223 ver / 170 face 
+object rr20 : rr20: 223 ver / 170 face 
+object rr21 : rr21: 223 ver / 170 face 
+object rr22 : rr22: 223 ver / 170 face 
+object rr23 : rr23: 223 ver / 170 face 
+object rr24 : rr24: 223 ver / 170 face 
+object rr25 : rr25: 223 ver / 170 face 
+object rr26 : rr26: 223 ver / 170 face 
+object rr27 : rr27: 223 ver / 170 face 
+object rr28 : rr28: 223 ver / 170 face 
+object rr29 : rr29: 223 ver / 170 face 
+object rr30 : rr30: 223 ver / 170 face 
+object Object07 : Object07: 8 ver / 4 face 
+object Object165 : Object165: 9 ver / 8 face 
+object Object166 : Object166: 9 ver / 8 face 
+object DrawCall_507 : DrawCall_507: 30 ver / 20 face 
+object Object167 : Object167: 9 ver / 8 face 
+object Object169 : Object169: 9 ver / 8 face 
+object Object175 : Object175: 9 ver / 8 face 
+object Object176 : Object176: 9 ver / 8 face 
+object Object177 : Object177: 9 ver / 8 face 
+object DrawCall_509 : DrawCall_509: 30 ver / 20 face 
+object Object178 : Object178: 9 ver / 8 face 
+RSBsp Info : 6759 faces
+Scene Dimension ( 17499.3 11978.2 2308.0 )
+Export Objects.
+Export Objects : Resurrected_obj_txa_fire_a_01.elu 
+Export Objects : Resurrected_obj_txa_fire_a_02.elu 
+Export Objects : Resurrected_obj_txa_fire_a_03.elu 
+Export Objects : Resurrected_obj_txa_fire_a_04.elu 
+Export Objects : Resurrected_obj_txa_fire_a_05.elu 
+Export Objects : Resurrected_obj_txa_fire_a_06.elu 
+Export Objects : Resurrected_obj_txa_fire_a_07.elu 
+Export Objects : Resurrected_obj_txa_fire_a_08.elu 
+Export Objects : Resurrected_obj_txa_fire_a_09.elu 
+Export Objects : Resurrected_obj_txa_fire_a_10.elu 
+Export Objects : Resurrected_obj_txa_fire_a_11.elu 
+Export Objects : Resurrected_obj_txa_fire_a_12.elu 
+Export Objects : Resurrected_obj_txa_fire_a_13.elu 
+Export Objects : Resurrected_obj_txa_fire_a_14.elu 
+Export Objects : Resurrected_obj_txa_fire_a_15.elu 
+Export Objects : Resurrected_obj_txa_fire_a_16.elu 
+Export description.. 
+Saving Source Data.
+CSG union - 122 objects
+construct object subtree Object064 ( 45 source polygon ) : total 21 faces splitted 46 leaf nodes 103 nodes 134 polygons
+construct object subtree Object02 ( 8 source polygon ) : total 0 faces splitted 5 leaf nodes 10 nodes 16 polygons
+construct object subtree Plane02 ( 1 source polygon ) : total 0 faces splitted 1 leaf nodes 2 nodes 2 polygons
+construct object subtree DrawCall_0168 ( 34 source polygon ) : total 129 faces splitted 108 leaf nodes 225 nodes 300 polygons
+construct object subtree DrawCall_0167 ( 32 source polygon ) : total 133 faces splitted 108 leaf nodes 226 nodes 309 polygons
+construct object subtree DrawCall_0335 ( 77 source polygon ) : total 232 faces splitted 178 leaf nodes 374 nodes 599 polygons
+construct object subtree DrawCall_490 ( 12 source polygon ) : total 0 faces splitted 10 leaf nodes 22 nodes 21 polygons
+construct object subtree Object92 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object93 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object94 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_491 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object95 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object96 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object97 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object98 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object99 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_492 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object100 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object101 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object102 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object103 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object104 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_493 ( 18 source polygon ) : total 0 faces splitted 15 leaf nodes 33 nodes 29 polygons
+construct object subtree Object105 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object106 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object109 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_494 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object112 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object114 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_495 ( 18 source polygon ) : total 0 faces splitted 15 leaf nodes 33 nodes 29 polygons
+construct object subtree Object115 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object116 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object119 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_485 ( 12 source polygon ) : total 0 faces splitted 10 leaf nodes 22 nodes 21 polygons
+construct object subtree Object67 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object68 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object69 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_486 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object72 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object73 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object74 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_487 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object77 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object78 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object79 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_488 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object80 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object81 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object82 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object83 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object84 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_489 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object87 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object88 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object89 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree Object150 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object152 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object153 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree DrawCall_502 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object154 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree Object155 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object156 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object157 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object158 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree DrawCall_503 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object159 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_496 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object120 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object121 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object122 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object123 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object124 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_498 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object130 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object131 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object132 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object133 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object134 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_499 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object137 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object138 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object139 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_500 ( 16 source polygon ) : total 0 faces splitted 13 leaf nodes 29 nodes 28 polygons
+construct object subtree Object142 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object143 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object144 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_501 ( 22 source polygon ) : total 0 faces splitted 18 leaf nodes 40 nodes 36 polygons
+construct object subtree Object145 ( 7 source polygon ) : total 2 faces splitted 7 leaf nodes 15 nodes 15 polygons
+construct object subtree Object146 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object147 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object148 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object149 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_0212 ( 66 source polygon ) : total 88 faces splitted 99 leaf nodes 247 nodes 211 polygons
+construct object subtree DrawCall_505 ( 72 source polygon ) : total 106 faces splitted 111 leaf nodes 276 nodes 244 polygons
+construct object subtree DrawCall_506 ( 72 source polygon ) : total 106 faces splitted 111 leaf nodes 276 nodes 244 polygons
+construct object subtree rr11 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr16 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr17 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr18 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr19 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr20 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr21 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr22 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr23 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr24 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr25 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr26 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr27 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr28 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr29 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree rr30 ( 170 source polygon ) : total 684 faces splitted 426 leaf nodes 950 nodes 1621 polygons
+construct object subtree Object07 ( 4 source polygon ) : total 0 faces splitted 1 leaf nodes 5 nodes 8 polygons
+construct object subtree Object165 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object166 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree DrawCall_507 ( 21 source polygon ) : total 0 faces splitted 17 leaf nodes 38 nodes 35 polygons
+construct object subtree Object167 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object169 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree Object175 ( 10 source polygon ) : total 4 faces splitted 10 leaf nodes 23 nodes 18 polygons
+construct object subtree Object176 ( 8 source polygon ) : total 2 faces splitted 8 leaf nodes 17 nodes 16 polygons
+construct object subtree Object177 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+construct object subtree DrawCall_509 ( 21 source polygon ) : total 0 faces splitted 17 leaf nodes 38 nodes 35 polygons
+construct object subtree Object178 ( 9 source polygon ) : total 2 faces splitted 10 leaf nodes 21 nodes 16 polygons
+0 faces eliminated. (solid)
+53030 source polygons remain
+optimized 17621 polygons remain
+Generating Convex polygons...
+Optimize Polygon 6759 -> 6613 
+Constructing Collision BspTree. ( 17621 source polygons )
+Collision Bsp Info : total 69311 faces splitted 9536 leaf nodes 51717 nodes 107667 polygons
+Constructing OcTree. ( 6613 source polygons )
+Octree Info : total 836 faces splitted 55 leaf nodes 112 nodes 7449 polygons
+Constructing BspTree. ( 6613 source polygons )
+RSBsp Info : total 19642 faces splitted 10458 leaf nodes 20915 nodes 26255 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+E:\Gunz\TestServ\decompiler\Resurrected\Resurrected.RS file saved
+E:\Gunz\TestServ\decompiler\Resurrected\Resurrected.RS.bsp file saved
+E:\Gunz\TestServ\decompiler\Resurrected\Resurrected.RS.col file saved
+Exporting takes 4 minutes and     49 seconds.
+Done.
